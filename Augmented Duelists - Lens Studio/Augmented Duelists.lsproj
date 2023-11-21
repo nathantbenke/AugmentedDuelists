@@ -324,7 +324,6 @@
         "AssetImportController": {
             "itemUidToID": ""
         },
-        "Compression::IController": "",
         "DigitalGoodsController": {
             "digital_goods": ""
         },
