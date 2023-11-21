@@ -1,0 +1,20 @@
+{
+    "1700134053531418:32985": {
+        "IResourceController": {
+            "name": "Attack",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700134053531700:32986",
+            "resources": []
+        }
+    },
+    "1700134053531700:32986": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Attack"
+            }
+        }
+    }
+}
