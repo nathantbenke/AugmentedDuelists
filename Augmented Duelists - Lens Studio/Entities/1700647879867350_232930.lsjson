@@ -1,0 +1,33 @@
+{
+    "1700647879856112:232927": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/Affinity File/Attack1Marker.afpub",
+                "hash": "c8b2dc85d6310f82694f5b2bea6d88c0"
+            }
+        }
+    },
+    "1700647879857352:232928": {
+        "IFileManager": {
+            "path": "Files/File_1700647879857352_232928.afpub"
+        }
+    },
+    "1700647879867350:232930": {
+        "IResourceController": {
+            "name": "Attack1Marker",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700647879867440:232931",
+            "fileId": "1700647879857352:232928",
+            "publicId": "1700647879856112:232927",
+            "expected_hash": "c8b2dc85d6310f82694f5b2bea6d88c0"
+        },
+        "IResourceManager": {
+            "uid": "1700647879867440:232931",
+            "name": "Files/File_1700647879857352_232928.afpub",
+            "flags": 1
+        }
+    }
+}

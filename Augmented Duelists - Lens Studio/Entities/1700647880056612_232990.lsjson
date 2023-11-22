@@ -1,0 +1,26 @@
+{
+    "1700647880054106:232989": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/PNG",
+                "hash": "b079aa0fec44f3f2f3a34f6800a0fd0e"
+            }
+        }
+    },
+    "1700647880056612:232990": {
+        "IResourceController": {
+            "name": "PNG",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700647880054106:232989",
+            "resources": [
+                "1700647880104454:233000",
+                "1700647880340959:233035",
+                "1700647880479812:233063",
+                "1700647880641379:233098"
+            ]
+        }
+    }
+}

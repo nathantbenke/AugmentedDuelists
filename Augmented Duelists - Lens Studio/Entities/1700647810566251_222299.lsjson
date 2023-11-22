@@ -1,0 +1,21 @@
+{
+    "1700647810564691:222296": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Attack",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1700647810566251:222299": {
+        "IResourceController": {
+            "name": "Attack",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700647810564691:222296",
+            "resources": []
+        }
+    }
+}
