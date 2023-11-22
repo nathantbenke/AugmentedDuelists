@@ -1,12 +1,4 @@
 {
-    "1700689555922377:7171": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Character Models/Spike_wheel_Animated.fbx",
-                "hash": "18392a1bb7aed8510eae7341b4d6a3fe"
-            }
-        }
-    },
     "1700689555927998:7172": {
         "IResourceController": {
             "name": "Spike_wheel_Animated",
@@ -15,7 +7,7 @@
             "dependency": 2,
             "hidden": false,
             "fileId": "1700689558998686:8741",
-            "publicId": "1700689555922377:7171",
+            "publicId": "1700693050691893:7474",
             "expected_hash": "18392a1bb7aed8510eae7341b4d6a3fe",
             "resources": [
                 "1700689557288678:8048",
@@ -57,6 +49,14 @@
     "1700689558998686:8741": {
         "IFileManager": {
             "path": "Files/File_1700689558998686_8741.fbx"
+        }
+    },
+    "1700693050691893:7474": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Spike_wheel_Animated.fbx",
+                "hash": "18392a1bb7aed8510eae7341b4d6a3fe"
+            }
         }
     }
 }

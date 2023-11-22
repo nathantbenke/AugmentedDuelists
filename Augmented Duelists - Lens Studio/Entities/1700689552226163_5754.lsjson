@@ -1,12 +1,4 @@
 {
-    "1700689552224516:5753": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Character Models/SpikeyShell_Animated.fbx",
-                "hash": "24fb4ed476a8c29717813cc0fb1f2928"
-            }
-        }
-    },
     "1700689552226163:5754": {
         "IResourceController": {
             "name": "SpikeyShell_Animated",
@@ -15,7 +7,7 @@
             "dependency": 2,
             "hidden": false,
             "fileId": "1700689555747456:7144",
-            "publicId": "1700689552224516:5753",
+            "publicId": "1700693050659205:7468",
             "expected_hash": "24fb4ed476a8c29717813cc0fb1f2928",
             "resources": [
                 "1700689553837376:6419",
@@ -58,6 +50,14 @@
     "1700689555747456:7144": {
         "IFileManager": {
             "path": "Files/File_1700689555747456_7144.fbx"
+        }
+    },
+    "1700693050659205:7468": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SpikeyShell_Animated.fbx",
+                "hash": "24fb4ed476a8c29717813cc0fb1f2928"
+            }
         }
     }
 }

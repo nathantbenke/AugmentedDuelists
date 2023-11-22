@@ -14,6 +14,7 @@
             "uid": "1700689554107864:6595",
             "fileId": "1700689554106487:6593",
             "originalId": "1700689554130231:6599",
+            "publicId": "1700693050668986:7470",
             "expected_hash": "d9f476183f34b7013d4c658c014833c3"
         },
         "IResourceManager": {
@@ -25,6 +26,14 @@
     "1700689554130231:6599": {
         "IFileManager": {
             "path": "Files/File_1700689554130231_6599.lsmat"
+        }
+    },
+    "1700693050668986:7470": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/SpikeyShell_Animated/Materials/Material.lsmat",
+                "hash": "7d077074097be855409b2605462130eb"
+            }
         }
     }
 }

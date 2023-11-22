@@ -1,12 +1,4 @@
 {
-    "1700610429205557:727": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Character Models/SpikeyShell_001.blend",
-                "hash": "5560abae4d841961e93f123165b7a7e8"
-            }
-        }
-    },
     "1700610429208339:728": {
         "IFileManager": {
             "path": "Files/File_1700610429208339_728.blend"
@@ -21,13 +13,21 @@
             "hidden": false,
             "uid": "1700610429210748:730",
             "fileId": "1700610429208339:728",
-            "publicId": "1700610429205557:727",
+            "publicId": "1700693050635573:7465",
             "expected_hash": "5560abae4d841961e93f123165b7a7e8"
         },
         "IResourceManager": {
             "uid": "1700610429210748:730",
             "name": "Files/File_1700610429208339_728.blend",
             "flags": 1
+        }
+    },
+    "1700693050635573:7465": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SpikeyShell_001.blend",
+                "hash": "5560abae4d841961e93f123165b7a7e8"
+            }
         }
     }
 }

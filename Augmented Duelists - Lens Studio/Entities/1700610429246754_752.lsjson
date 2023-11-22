@@ -1,12 +1,4 @@
 {
-    "1700610429245269:751": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Markers",
-                "hash": "dbb81bec4607aa770915229313503f39"
-            }
-        }
-    },
     "1700610429246754:752": {
         "IResourceController": {
             "name": "Markers",
@@ -14,11 +6,18 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700610429245269:751",
+            "publicId": "1700693050715948:7480",
             "resources": [
                 "1700610429248188:754",
                 "1700610429282979:788"
             ]
+        }
+    },
+    "1700693050715948:7480": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers"
+            }
         }
     }
 }

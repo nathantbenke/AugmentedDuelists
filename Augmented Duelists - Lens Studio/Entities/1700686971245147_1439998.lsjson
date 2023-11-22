@@ -1,12 +1,4 @@
 {
-    "1700686971240422:1439996": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/UI/PlayerCircle.png",
-                "hash": "cc169c6ffbcf92368452c02a2cb88ef0"
-            }
-        }
-    },
     "1700686971243056:1439997": {
         "IFileManager": {
             "path": "Files/File_1700686971243056_1439997.pvr"
@@ -22,7 +14,7 @@
             "uid": "1700686971488714:1439999",
             "fileId": "1700686971243056:1439997",
             "originalId": "1700686971490318:1440004",
-            "publicId": "1700686971240422:1439996",
+            "publicId": "1700693050788932:7501",
             "expected_hash": "41d4752847d0653fa65a371678480c4b",
             "additional": {
                 "originHash": "cc169c6ffbcf92368452c02a2cb88ef0"
@@ -74,6 +66,14 @@
     "1700686972492304:1440731": {
         "IFileManager": {
             "path": "Files/File_1700686972492304_1440731.pvr"
+        }
+    },
+    "1700693050788932:7501": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/UI/PlayerCircle.png",
+                "hash": "cc169c6ffbcf92368452c02a2cb88ef0"
+            }
         }
     }
 }
