@@ -3,7 +3,7 @@
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/SpikeyShell_001.blend",
-                "hash": "5560abae4d841961e93f123165b7a7e8"
+                "hash": "9e1ffbf4009d3ba03e737d1d63077685"
             }
         }
     },
@@ -22,7 +22,7 @@
             "uid": "1700610429210748:730",
             "fileId": "1700610429208339:728",
             "publicId": "1700610429205557:727",
-            "expected_hash": "5560abae4d841961e93f123165b7a7e8"
+            "expected_hash": "9e1ffbf4009d3ba03e737d1d63077685"
         },
         "IResourceManager": {
             "uid": "1700610429210748:730",

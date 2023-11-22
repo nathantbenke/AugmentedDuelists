@@ -1,0 +1,62 @@
+{
+    "1700675573535871:14259": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Spike_wheel_Animated.fbx",
+                "hash": "18392a1bb7aed8510eae7341b4d6a3fe"
+            }
+        }
+    },
+    "1700675573539035:14260": {
+        "IResourceController": {
+            "name": "Spike_wheel_Animated",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1700675604095032:21692",
+            "publicId": "1700675573535871:14259",
+            "expected_hash": "18392a1bb7aed8510eae7341b4d6a3fe",
+            "resources": [
+                "1700675594569344:19642",
+                "1700675596903256:20201",
+                "1700675603994001:21568"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Brown",
+                        "v": "1700675596914170:20204"
+                    },
+                    {
+                        "k": "Grey",
+                        "v": "1700675598367763:20444"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1700675600205578:20710"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1700675602021322:21001"
+                    }
+                ]
+            }
+        }
+    },
+    "1700675604095032:21692": {
+        "IFileManager": {
+            "path": "Files/File_1700675604095032_21692.fbx"
+        }
+    }
+}

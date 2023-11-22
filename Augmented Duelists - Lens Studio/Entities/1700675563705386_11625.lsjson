@@ -1,0 +1,63 @@
+{
+    "1700675563703634:11624": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SpikeyShell_Animated.fbx",
+                "hash": "24fb4ed476a8c29717813cc0fb1f2928"
+            }
+        }
+    },
+    "1700675563705386:11625": {
+        "IResourceController": {
+            "name": "SpikeyShell_Animated",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1700675572046736:13698",
+            "publicId": "1700675563703634:11624",
+            "expected_hash": "24fb4ed476a8c29717813cc0fb1f2928",
+            "resources": [
+                "1700675567378710:12338",
+                "1700675567966126:12586",
+                "1700675567973344:12601",
+                "1700675571887058:13559"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1700675567977971:12604"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1700675568778558:12749"
+                    },
+                    {
+                        "k": "Material 3",
+                        "v": "1700675569727629:12913"
+                    },
+                    {
+                        "k": "Material 4",
+                        "v": "1700675570593576:13058"
+                    }
+                ]
+            }
+        }
+    },
+    "1700675572046736:13698": {
+        "IFileManager": {
+            "path": "Files/File_1700675572046736_13698.fbx"
+        }
+    }
+}

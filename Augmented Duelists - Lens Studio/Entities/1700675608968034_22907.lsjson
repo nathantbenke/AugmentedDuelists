@@ -1,0 +1,38 @@
+{
+    "1700675608933483:22900": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Game/GameManager.js",
+                "hash": "b9d5023dbfd8ac5b15a2d30f49f6175b"
+            }
+        }
+    },
+    "1700675608935839:22901": {
+        "IFileManager": {
+            "path": "Files/File_1700675608935839_22901.js"
+        }
+    },
+    "1700675608968034:22907": {
+        "IResourceController": {
+            "name": "GameManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700675608968210:22908",
+            "fileId": "1700675608935839:22901",
+            "publicId": "1700675608933483:22900",
+            "expected_hash": "b9d5023dbfd8ac5b15a2d30f49f6175b"
+        },
+        "IResourceManager": {
+            "uid": "1700675608968210:22908",
+            "name": "Files/File_1700675608935839_22901.js",
+            "flags": 1
+        }
+    },
+    "1700675608968210:22908": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

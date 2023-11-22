@@ -1,0 +1,33 @@
+{
+    "1700675573493493:14241": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Spike_wheel_005.blend",
+                "hash": "bd480749dd80ded091baa07903c052ea"
+            }
+        }
+    },
+    "1700675573500166:14243": {
+        "IFileManager": {
+            "path": "Files/File_1700675573500166_14243.blend"
+        }
+    },
+    "1700675573508909:14248": {
+        "IResourceController": {
+            "name": "Spike_wheel_005",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700675573508980:14249",
+            "fileId": "1700675573500166:14243",
+            "publicId": "1700675573493493:14241",
+            "expected_hash": "bd480749dd80ded091baa07903c052ea"
+        },
+        "IResourceManager": {
+            "uid": "1700675573508980:14249",
+            "name": "Files/File_1700675573500166_14243.blend",
+            "flags": 1
+        }
+    }
+}

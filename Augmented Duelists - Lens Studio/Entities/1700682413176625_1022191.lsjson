@@ -1,0 +1,21 @@
+{
+    "1700682413175335:1022190": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterMarker",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1700682413176625:1022191": {
+        "IResourceController": {
+            "name": "MonsterMarker",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700682413175335:1022190",
+            "resources": []
+        }
+    }
+}

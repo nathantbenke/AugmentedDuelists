@@ -1,0 +1,30 @@
+{
+    "1700675603994001:21568": {
+        "IResourceController": {
+            "name": "Spike_wheel_Animated",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1700675603993435:21458",
+            "fileId": "1700675604060067:21686",
+            "originalId": "1700676640402959:190859",
+            "expected_hash": "011c8f126ad6a03bef3ee6c42e925983"
+        },
+        "IResourceManager": {
+            "uid": "1700675603993435:21458",
+            "name": "Spike_wheel_Animated",
+            "flags": 0
+        }
+    },
+    "1700675604060067:21686": {
+        "IFileManager": {
+            "path": "Files/File_1700675604060067_21686.oprfb"
+        }
+    },
+    "1700676640402959:190859": {
+        "IFileManager": {
+            "path": "Files/File_1700676640402959_190859.oprfb"
+        }
+    }
+}

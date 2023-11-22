@@ -1,0 +1,39 @@
+{
+    "1700676671926815:196412": {
+        "IResourceController": {
+            "name": "TestMonster2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700676671925114:196379",
+            "fileId": "1700676672069060:196448",
+            "originalId": "1700677233504569:286028",
+            "publicId": "1700676672089430:196452",
+            "expected_hash": "3883e68051dacae953af411f7abbb4d3"
+        },
+        "IResourceManager": {
+            "uid": "1700676671925114:196379",
+            "name": "TestMonster",
+            "flags": 0
+        }
+    },
+    "1700676672069060:196448": {
+        "IFileManager": {
+            "path": "Files/File_1700676672069060_196448.oprfb"
+        }
+    },
+    "1700676672089430:196452": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterPrefabs/TestMonster2.oprfb",
+                "hash": "59545419197ef92ce278f0c88f5ff128"
+            }
+        }
+    },
+    "1700677233504569:286028": {
+        "IFileManager": {
+            "path": "Files/File_1700677233504569_286028.oprfb"
+        }
+    }
+}

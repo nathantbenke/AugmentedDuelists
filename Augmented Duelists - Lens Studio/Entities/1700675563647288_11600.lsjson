@@ -1,0 +1,33 @@
+{
+    "1700675563623818:11593": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Cloud_001 3.blend1",
+                "hash": "a192b85d7f52c4276cc8b0054c78b7ad"
+            }
+        }
+    },
+    "1700675563639371:11599": {
+        "IFileManager": {
+            "path": "Files/File_1700675563639371_11599.blend1"
+        }
+    },
+    "1700675563647288:11600": {
+        "IResourceController": {
+            "name": "Cloud_001 3",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700675563648628:11601",
+            "fileId": "1700675563639371:11599",
+            "publicId": "1700675563623818:11593",
+            "expected_hash": "a192b85d7f52c4276cc8b0054c78b7ad"
+        },
+        "IResourceManager": {
+            "uid": "1700675563648628:11601",
+            "name": "Files/File_1700675563639371_11599.blend1",
+            "flags": 1
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1700675606202424:22335": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterPrefabs/TestMonster.oprfb",
+                "hash": "a5d5b820ebade4a40baf242e6645b6a6"
+            }
+        }
+    },
+    "1700675606215820:22343": {
+        "IResourceController": {
+            "name": "TestMonster",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700675606215775:22340",
+            "fileId": "1700675606365849:22369",
+            "originalId": "1700676640467553:190871",
+            "publicId": "1700675606202424:22335",
+            "expected_hash": "199c1bd01c4234b7a1ec039ecd8acfbc"
+        },
+        "IResourceManager": {
+            "uid": "1700675606215775:22340",
+            "name": "sceneObject_25",
+            "flags": 0
+        }
+    },
+    "1700675606365849:22369": {
+        "IFileManager": {
+            "path": "Files/File_1700675606365849_22369.oprfb"
+        }
+    },
+    "1700676640467553:190871": {
+        "IFileManager": {
+            "path": "Files/File_1700676640467553_190871.oprfb"
+        }
+    }
+}
