@@ -1,0 +1,27 @@
+{
+    "1700647879370393:232808": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models",
+                "hash": "00dda837d3cc19ada57dba6d61528272"
+            }
+        }
+    },
+    "1700647879437049:232817": {
+        "IResourceController": {
+            "name": "Character Models",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700647879370393:232808",
+            "resources": [
+                "1700647879485780:232830",
+                "1700647879575144:232850",
+                "1700647879672673:232873",
+                "1700647879732472:232889",
+                "1700647879796933:232907"
+            ]
+        }
+    }
+}

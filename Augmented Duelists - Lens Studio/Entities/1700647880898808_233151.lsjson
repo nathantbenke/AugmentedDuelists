@@ -1,0 +1,24 @@
+{
+    "1700647880895610:233150": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PlaySpace/Affinity Files",
+                "hash": "18c3431e7504e29420d6212d36133b1b"
+            }
+        }
+    },
+    "1700647880898808:233151": {
+        "IResourceController": {
+            "name": "Affinity Files",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700647880895610:233150",
+            "resources": [
+                "1700647880910343:233154",
+                "1700647880939639:233167"
+            ]
+        }
+    }
+}

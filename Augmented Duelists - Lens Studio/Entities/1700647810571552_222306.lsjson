@@ -1,0 +1,21 @@
+{
+    "1700647810570519:222305": {
+        "IResourceController": {
+            "public": {
+                "path": "AnimationAssets",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1700647810571552:222306": {
+        "IResourceController": {
+            "name": "AnimationAssets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700647810570519:222305",
+            "resources": []
+        }
+    }
+}

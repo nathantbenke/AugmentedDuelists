@@ -258,7 +258,7 @@
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
-            "input_stream_type": "Video",
+            "input_stream_type": "Image",
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",
@@ -338,7 +338,8 @@
         },
         "ObjectTracking3DController": {
             "hand_tracking_mode": "2"
-        }
+        },
+        "ScriptModulesController": ""
     },
     "templateName": "Empty Project",
     "templateUrl": "Lens Studio version 4.55.0"

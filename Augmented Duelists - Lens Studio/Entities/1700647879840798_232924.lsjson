@@ -1,0 +1,24 @@
+{
+    "1700647879833460:232919": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers",
+                "hash": "dbb81bec4607aa770915229313503f39"
+            }
+        }
+    },
+    "1700647879840798:232924": {
+        "IResourceController": {
+            "name": "Markers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700647879833460:232919",
+            "resources": [
+                "1700647879854988:232926",
+                "1700647880056612:232990"
+            ]
+        }
+    }
+}

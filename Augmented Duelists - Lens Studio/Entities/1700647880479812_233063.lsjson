@@ -1,0 +1,79 @@
+{
+    "1700647880459965:233058": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/PNG/Attack3Marker.png",
+                "hash": "397c8892bfb38e0746f1789c35e455f2"
+            }
+        }
+    },
+    "1700647880472424:233062": {
+        "IFileManager": {
+            "path": "Files/File_1700647880472424_233062.pvr"
+        }
+    },
+    "1700647880479812:233063": {
+        "IResourceController": {
+            "name": "Attack3Marker",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700647880490835:233064",
+            "fileId": "1700647880472424:233062",
+            "originalId": "1700647880494809:233071",
+            "publicId": "1700647880459965:233058",
+            "expected_hash": "35857015bbcbcbda0caeb348c60bebd9",
+            "additional": {
+                "originHash": "397c8892bfb38e0746f1789c35e455f2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700647880490835:233064",
+            "name": "Files/File_1700647880472424_233062.png",
+            "flags": 1
+        }
+    },
+    "1700647880490835:233064": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "397c8892bfb38e0746f1789c35e455f2"
+                    },
+                    "v": "1700647886331508:234319"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "310472",
+                "compressedSize": "8137",
+                "extension": "png",
+                "originalRAM": "2483776",
+                "originalSize": "23479",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1700647880506333:233075"
+        }
+    },
+    "1700647880494809:233071": {
+        "IFileManager": {
+            "path": "Files/File_1700647880494809_233071.png"
+        }
+    },
+    "1700647880506333:233075": {
+        "IFileManager": {
+            "path": "Files/File_1700647880506333_233075.png"
+        }
+    },
+    "1700647886331508:234319": {
+        "IFileManager": {
+            "path": "Files/File_1700647886331508_234319.pvr"
+        }
+    }
+}
