@@ -1,12 +1,4 @@
 {
-    "1700610429153286:709": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Character Models",
-                "hash": "00dda837d3cc19ada57dba6d61528272"
-            }
-        }
-    },
     "1700610429167236:710": {
         "IResourceController": {
             "name": "Character Models",
@@ -14,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700610429153286:709",
+            "publicId": "1700693050613805:7462",
             "resources": [
                 "1700610429174064:713",
                 "1700610429193988:721",
@@ -24,6 +16,13 @@
                 "1700689552226163:5754",
                 "1700689555927998:7172"
             ]
+        }
+    },
+    "1700693050613805:7462": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models"
+            }
         }
     }
 }

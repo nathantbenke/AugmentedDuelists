@@ -14,6 +14,7 @@
             "uid": "1700689557607691:8223",
             "fileId": "1700689557606286:8221",
             "originalId": "1700689557629713:8227",
+            "publicId": "1700693050697767:7476",
             "expected_hash": "d9f476183f34b7013d4c658c014833c3"
         },
         "IResourceManager": {
@@ -25,6 +26,14 @@
     "1700689557629713:8227": {
         "IFileManager": {
             "path": "Files/File_1700689557629713_8227.lsmat"
+        }
+    },
+    "1700693050697767:7476": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/Spike_wheel_Animated/Materials/Brown.lsmat",
+                "hash": "bcd922f33662a74c2e058ac4dd424a71"
+            }
         }
     }
 }

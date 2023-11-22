@@ -1,12 +1,4 @@
 {
-    "1700610429410614:851": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/PlaySpace/PNG",
-                "hash": "6a68b10b2022283eb54877f76a420ba7"
-            }
-        }
-    },
     "1700610429411488:852": {
         "IResourceController": {
             "name": "PNG",
@@ -14,10 +6,17 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700610429410614:851",
+            "publicId": "1700693050777864:7495",
             "resources": [
                 "1700610429553175:855"
             ]
+        }
+    },
+    "1700693050777864:7495": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PlaySpace/PNG"
+            }
         }
     }
 }

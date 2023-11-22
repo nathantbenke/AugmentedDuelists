@@ -1,12 +1,4 @@
 {
-    "1700610429282055:787": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Markers/PNG",
-                "hash": "b079aa0fec44f3f2f3a34f6800a0fd0e"
-            }
-        }
-    },
     "1700610429282979:788": {
         "IResourceController": {
             "name": "PNG",
@@ -14,13 +6,20 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700610429282055:787",
+            "publicId": "1700693050737331:7486",
             "resources": [
                 "1700610429288944:791",
                 "1700610429313376:801",
                 "1700610429343215:811",
                 "1700610429369017:821"
             ]
+        }
+    },
+    "1700693050737331:7486": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/PNG"
+            }
         }
     }
 }

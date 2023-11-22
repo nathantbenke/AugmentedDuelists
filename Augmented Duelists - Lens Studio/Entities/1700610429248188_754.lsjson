@@ -1,12 +1,4 @@
 {
-    "1700610429247357:753": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Markers/Affinity File",
-                "hash": "5029f6d60dba8262c881c793f32585aa"
-            }
-        }
-    },
     "1700610429248188:754": {
         "IResourceController": {
             "name": "Affinity File",
@@ -14,13 +6,20 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700610429247357:753",
+            "publicId": "1700693050716554:7481",
             "resources": [
                 "1700610429250638:757",
                 "1700610429257560:765",
                 "1700610429263940:773",
                 "1700610429272185:781"
             ]
+        }
+    },
+    "1700693050716554:7481": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/Affinity File"
+            }
         }
     }
 }
