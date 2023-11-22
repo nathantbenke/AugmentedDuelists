@@ -254,11 +254,11 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "2"
+                "camera_type": "1"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
-            "input_stream_type": "Video",
+            "input_stream_type": "InteractiveEnvironment",
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",
@@ -276,6 +276,18 @@
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "front_preview_is_favorite": "false"
+            },
+            "ie_saved_device_transformation": {
+                "eulerRotation": {
+                    "x": "0",
+                    "y": "0",
+                    "z": "0"
+                },
+                "translation": {
+                    "x": "0",
+                    "y": "0",
+                    "z": "32"
+                }
             }
         },
         "ResourceUiComponent": "",
@@ -290,9 +302,10 @@
                 "unrecognizedMaterials": ""
             }
         },
+        "InspectorComponent": "",
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -338,7 +351,8 @@
         },
         "ObjectTracking3DController": {
             "hand_tracking_mode": "2"
-        }
+        },
+        "ScriptModulesController": ""
     },
     "templateName": "Empty Project",
     "templateUrl": "Lens Studio version 4.55.0"
