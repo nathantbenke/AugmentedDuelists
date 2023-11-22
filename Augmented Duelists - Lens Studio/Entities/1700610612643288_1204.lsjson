@@ -1,21 +1,19 @@
 {
-    "1700134073738734:32987": {
+    "1700610612643288:1204": {
         "IResourceController": {
             "name": "UI",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700134073738935:32988",
-            "resources": [
-                "1700682645875531:434376"
-            ]
+            "publicId": "1700610906525117:117335",
+            "resources": []
         }
     },
-    "1700134073738935:32988": {
+    "1700610906525117:117335": {
         "IResourceController": {
             "public": {
-                "path": "Scripts/UI"
+                "path": "Assets/Scripts/UI"
             }
         }
     }
