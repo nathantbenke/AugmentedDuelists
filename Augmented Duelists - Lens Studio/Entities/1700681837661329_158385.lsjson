@@ -10,10 +10,10 @@
                     "attachLeft": "false",
                     "attachRight": "false",
                     "attachTop": "false",
-                    "fixHeight": "true",
+                    "fixHeight": "false",
                     "fixWidth": "false"
                 },
-                "isBasicMode": "false"
+                "isBasicMode": "true"
             }
         }
     }
