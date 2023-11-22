@@ -347,7 +347,388 @@
             "state": {
                 "objectToInfo": ""
             },
-            "importInfo": ""
+            "importInfo": [
+                {
+                    "k": "1700689555706415:6910",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1700689555686146:6745"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1700689555705406:6908"
+                        },
+                        {
+                            "k": [
+                                "Sphere"
+                            ],
+                            "v": "1700689555689331:6747"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Component.Animation"
+                            ],
+                            "v": "1700689555705157:6906"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555703888:6892"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1700689555704630:6903"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone"
+                            ],
+                            "v": "1700689555693357:6775"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555693771:6777"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.001"
+                            ],
+                            "v": "1700689555694690:6788"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555695113:6790"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.002"
+                            ],
+                            "v": "1700689555695965:6801"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555696340:6803"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.003"
+                            ],
+                            "v": "1700689555697126:6814"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.003",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555697497:6816"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.004"
+                            ],
+                            "v": "1700689555698283:6827"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.004",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555698651:6829"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.005"
+                            ],
+                            "v": "1700689555699390:6840"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.005",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555699755:6842"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.006"
+                            ],
+                            "v": "1700689555700521:6853"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.006",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555700908:6855"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.007"
+                            ],
+                            "v": "1700689555701658:6866"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.007",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555702044:6868"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.008"
+                            ],
+                            "v": "1700689555702798:6879"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Cone.008",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555703173:6881"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Torus"
+                            ],
+                            "v": "1700689555689856:6749"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Torus",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555690233:6751"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Torus.001"
+                            ],
+                            "v": "1700689555691964:6762"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Torus.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689555692407:6764"
+                        }
+                    ]
+                },
+                {
+                    "k": "1700689558961141:8527",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1700689558945432:8373"
+                        },
+                        {
+                            "k": [
+                                "Cone"
+                            ],
+                            "v": "1700689558952476:8423"
+                        },
+                        {
+                            "k": [
+                                "Cone",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558952822:8425"
+                        },
+                        {
+                            "k": [
+                                "Cone.002"
+                            ],
+                            "v": "1700689558953503:8436"
+                        },
+                        {
+                            "k": [
+                                "Cone.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558953858:8438"
+                        },
+                        {
+                            "k": [
+                                "Cone.003"
+                            ],
+                            "v": "1700689558954556:8449"
+                        },
+                        {
+                            "k": [
+                                "Cone.003",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558954905:8451"
+                        },
+                        {
+                            "k": [
+                                "Cone.004"
+                            ],
+                            "v": "1700689558955577:8462"
+                        },
+                        {
+                            "k": [
+                                "Cone.004",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558955941:8464"
+                        },
+                        {
+                            "k": [
+                                "Cone.005"
+                            ],
+                            "v": "1700689558956643:8475"
+                        },
+                        {
+                            "k": [
+                                "Cone.005",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558957006:8477"
+                        },
+                        {
+                            "k": [
+                                "Cone.006"
+                            ],
+                            "v": "1700689558957691:8488"
+                        },
+                        {
+                            "k": [
+                                "Cone.006",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558958032:8490"
+                        },
+                        {
+                            "k": [
+                                "Cone.007"
+                            ],
+                            "v": "1700689558958704:8501"
+                        },
+                        {
+                            "k": [
+                                "Cone.007",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558959050:8503"
+                        },
+                        {
+                            "k": [
+                                "Cone.008"
+                            ],
+                            "v": "1700689558959716:8514"
+                        },
+                        {
+                            "k": [
+                                "Cone.008",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558960067:8516"
+                        },
+                        {
+                            "k": [
+                                "Cube"
+                            ],
+                            "v": "1700689558948848:8388"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558949216:8390"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1700689558949940:8401"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.RenderMeshVisual2"
+                            ],
+                            "v": "1700689558950428:8404"
+                        },
+                        {
+                            "k": [
+                                "Cube.001"
+                            ],
+                            "v": "1700689558950904:8407"
+                        },
+                        {
+                            "k": [
+                                "Cube.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558951256:8409"
+                        },
+                        {
+                            "k": [
+                                "Cube.001",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1700689558951956:8420"
+                        },
+                        {
+                            "k": [
+                                "Torus"
+                            ],
+                            "v": "1700689558947536:8375"
+                        },
+                        {
+                            "k": [
+                                "Torus",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1700689558947946:8377"
+                        }
+                    ]
+                }
+            ]
         },
         "ObjectTracking3DController": {
             "hand_tracking_mode": "2"
