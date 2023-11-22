@@ -5,7 +5,6 @@
 //@input SceneObject Player1;
 //@input SceneObject Player2;
 
-//@input 
 
 var PrefabTest = script.Player1;
 
