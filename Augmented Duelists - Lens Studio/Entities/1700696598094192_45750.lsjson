@@ -1,5 +1,5 @@
 {
-    "1700610429152432:707": {
+    "1700696598093081:45749": {
         "IResourceController": {
             "public": {
                 "path": "Assets/AnimationAssets",
@@ -7,14 +7,14 @@
             }
         }
     },
-    "1700610429152925:708": {
+    "1700696598094192:45750": {
         "IResourceController": {
             "name": "AnimationAssets",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700610429152432:707",
+            "publicId": "1700696598093081:45749",
             "resources": []
         }
     }

@@ -1,0 +1,38 @@
+{
+    "1700696280042494:42951": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Game/Player.js",
+                "hash": "41dce52d7f131aa0900e9a20682cfc05"
+            }
+        }
+    },
+    "1700696280043419:42952": {
+        "IFileManager": {
+            "path": "Files/File_1700696280043419_42952.js"
+        }
+    },
+    "1700696280046706:42953": {
+        "IResourceController": {
+            "name": "Player",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700696280046752:42954",
+            "fileId": "1700696280043419:42952",
+            "publicId": "1700696280042494:42951",
+            "expected_hash": "41dce52d7f131aa0900e9a20682cfc05"
+        },
+        "IResourceManager": {
+            "uid": "1700696280046752:42954",
+            "name": "Files/File_1700696280043419_42952.js",
+            "flags": 1
+        }
+    },
+    "1700696280046752:42954": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

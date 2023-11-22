@@ -1,5 +1,5 @@
 {
-    "1700610429394475:829": {
+    "1700696598094968:45751": {
         "IResourceController": {
             "public": {
                 "path": "Assets/MonsterMarker",
@@ -7,14 +7,14 @@
             }
         }
     },
-    "1700610429395017:830": {
+    "1700696598095955:45752": {
         "IResourceController": {
             "name": "MonsterMarker",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700610429394475:829",
+            "publicId": "1700696598094968:45751",
             "resources": []
         }
     }
