@@ -24,11 +24,12 @@ if (markerTracking) {
         print("yes");
         //currentHealthP1.text = "500"; 
         //textObject = "500";
-        maxHealthP1 = '500';
+        script.currentHealthP1.text = '500';
+        script.maxHealthP1.text = '500';
     } else {
             print("no");
-        currentHealthP1 = '500'; 
-        maxHealthP1 = '500';
+        script.currentHealthP1 = '0'; 
+        script.maxHealthP1 = '0';
        // currentHealthP1.text = '0'; 
        // maxHealthP1.text = '0';
     }

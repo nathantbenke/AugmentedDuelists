@@ -1,0 +1,38 @@
+{
+    "1700735540864032:2777189": {
+        "IFileManager": {
+            "path": "Files/File_1700735540864032_2777189.js"
+        }
+    },
+    "1700735540868343:2777191": {
+        "IResourceController": {
+            "name": "senseAttack1",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700735540868372:2777192",
+            "fileId": "1700735540864032:2777189",
+            "publicId": "1700735540889118:2777204",
+            "expected_hash": "3ba5700c4b3cb7c75b8b88158ba1c32d"
+        },
+        "IResourceManager": {
+            "uid": "1700735540868372:2777192",
+            "name": "Files/File_1700735540864032_2777189.js",
+            "flags": 1
+        }
+    },
+    "1700735540868372:2777192": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700735540889118:2777204": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/UI/senseAttack1.js",
+                "hash": "3ba5700c4b3cb7c75b8b88158ba1c32d"
+            }
+        }
+    }
+}
