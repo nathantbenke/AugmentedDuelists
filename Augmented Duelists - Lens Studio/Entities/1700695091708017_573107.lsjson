@@ -1,0 +1,24 @@
+{
+    "1700695091705173:573106": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterPrefabs",
+                "hash": "79a673ae93130dd6ce25ad29e23f56c5"
+            }
+        }
+    },
+    "1700695091708017:573107": {
+        "IResourceController": {
+            "name": "MonsterPrefabs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700695091705173:573106",
+            "resources": [
+                "1700727944605558:231985",
+                "1700727944714945:232050"
+            ]
+        }
+    }
+}
