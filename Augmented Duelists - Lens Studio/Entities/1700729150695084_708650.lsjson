@@ -14,7 +14,7 @@
             "uid": "1700729150695101:708651",
             "fileId": "1700729150693124:708649",
             "publicId": "1700729150697176:708656",
-            "expected_hash": "655c4ddfc697d28ef01eb4914b4f24eb"
+            "expected_hash": "2d3c076e7820130a7f8166fccf552e71"
         },
         "IResourceManager": {
             "uid": "1700729150695101:708651",
@@ -31,7 +31,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/UI/ImageTracking.js",
-                "hash": "655c4ddfc697d28ef01eb4914b4f24eb"
+                "hash": "2d3c076e7820130a7f8166fccf552e71"
             }
         }
     }

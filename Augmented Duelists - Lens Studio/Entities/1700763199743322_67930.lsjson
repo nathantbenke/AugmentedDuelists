@@ -1,0 +1,38 @@
+{
+    "1700763199740849:67929": {
+        "IFileManager": {
+            "path": "Files/File_1700763199740849_67929.js"
+        }
+    },
+    "1700763199743322:67930": {
+        "IResourceController": {
+            "name": "TurnController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700763199743687:67931",
+            "fileId": "1700763199740849:67929",
+            "publicId": "1700763199757719:67944",
+            "expected_hash": "396898409d8b72ee3c979475b56ad761"
+        },
+        "IResourceManager": {
+            "uid": "1700763199743687:67931",
+            "name": "Files/File_1700763199740849_67929.js",
+            "flags": 1
+        }
+    },
+    "1700763199743687:67931": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1700763199757719:67944": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/TurnController.js",
+                "hash": "396898409d8b72ee3c979475b56ad761"
+            }
+        }
+    }
+}

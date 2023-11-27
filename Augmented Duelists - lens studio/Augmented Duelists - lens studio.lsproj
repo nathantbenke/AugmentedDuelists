@@ -276,6 +276,18 @@
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "front_preview_is_favorite": "false"
+            },
+            "ie_saved_device_transformation": {
+                "eulerRotation": {
+                    "x": "-37.4069519",
+                    "y": "353.928772",
+                    "z": "0"
+                },
+                "translation": {
+                    "x": "-75.5121384",
+                    "y": "0",
+                    "z": "-243.162079"
+                }
             }
         },
         "ResourceUiComponent": "",
