@@ -1,6 +1,6 @@
 // -----JS CODE-----
-@input Component.text maxHealthDisplay;
-@input int maxHealth;
+//@input Component.text maxHealthDisplay;
+//@input int maxHealth;
 
 
 function set() {

@@ -1,0 +1,23 @@
+{
+    "1700735239524251:17174": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Monsters",
+                "hash": "b752b030ecf9ba44119dee130094a59d"
+            }
+        }
+    },
+    "1700735239526057:17175": {
+        "IResourceController": {
+            "name": "Monsters",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700735239524251:17174",
+            "resources": [
+                "1700735239535333:17178"
+            ]
+        }
+    }
+}
