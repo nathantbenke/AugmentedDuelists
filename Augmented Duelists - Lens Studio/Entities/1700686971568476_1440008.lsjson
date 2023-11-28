@@ -14,7 +14,7 @@
             "uid": "1700686971568512:1440009",
             "fileId": "1700686971564925:1440007",
             "publicId": "1700693050609938:7458",
-            "expected_hash": "97da3d87de63377ba48f9c1c7d86d68a"
+            "expected_hash": "d8c3ba429cd61d6f05cae83eb5aaba32"
         },
         "IResourceManager": {
             "uid": "1700686971568512:1440009",
@@ -31,7 +31,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/UI/convertHealthToUI.js",
-                "hash": "97da3d87de63377ba48f9c1c7d86d68a"
+                "hash": "d8c3ba429cd61d6f05cae83eb5aaba32"
             }
         }
     }

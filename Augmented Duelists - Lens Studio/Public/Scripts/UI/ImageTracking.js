@@ -21,12 +21,12 @@ if (markerTracking) {
     
     if (markerTracking.isTracking())
     {
-        print("yes");
+        //print("yes");
         //currentHealthP1.text = "500"; 
         //textObject = "500";
         maxHealthP1 = '500';
     } else {
-            print("no");
+            //print("no");
         currentHealthP1 = '500'; 
         maxHealthP1 = '500';
        // currentHealthP1.text = '0'; 
