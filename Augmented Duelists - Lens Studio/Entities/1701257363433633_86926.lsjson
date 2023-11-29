@@ -1,0 +1,30 @@
+{
+    "1701257363433633:86926": {
+        "IResourceController": {
+            "name": "SpikeyShell_002",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701257363432078:85495",
+            "fileId": "1701257363490668:89038",
+            "originalId": "1701259270242409:1704062",
+            "expected_hash": "bdfd65e68c14715e4ad1e7ab55f1bbe5"
+        },
+        "IResourceManager": {
+            "uid": "1701257363432078:85495",
+            "name": "SpikeyShell_002",
+            "flags": 0
+        }
+    },
+    "1701257363490668:89038": {
+        "IFileManager": {
+            "path": "Files/File_1701257363490668_89038.oprfb"
+        }
+    },
+    "1701259270242409:1704062": {
+        "IFileManager": {
+            "path": "Files/File_1701259270242409_1704062.oprfb"
+        }
+    }
+}

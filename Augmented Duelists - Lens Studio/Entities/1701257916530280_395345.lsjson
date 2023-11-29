@@ -1,0 +1,30 @@
+{
+    "1701257916530280:395345": {
+        "IResourceController": {
+            "name": "SpikeyShell_003",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701257916530080:395205",
+            "fileId": "1701257916544418:395481",
+            "originalId": "1701259270258606:1704148",
+            "expected_hash": "b52b5f740930d191a45fc96f5ae38594"
+        },
+        "IResourceManager": {
+            "uid": "1701257916530080:395205",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1701257916544418:395481": {
+        "IFileManager": {
+            "path": "Files/File_1701257916544418_395481.oprfb"
+        }
+    },
+    "1701259270258606:1704148": {
+        "IFileManager": {
+            "path": "Files/File_1701259270258606_1704148.oprfb"
+        }
+    }
+}

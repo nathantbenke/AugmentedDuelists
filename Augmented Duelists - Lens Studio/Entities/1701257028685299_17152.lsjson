@@ -1,0 +1,44 @@
+{
+    "1701257028680439:17149": {
+        "IResourceController": {
+            "public": {
+                "path": "Script Graph.lsscript",
+                "hash": "4136f57a3ad0ae65afc4a01c54b62255"
+            }
+        }
+    },
+    "1701257028682180:17151": {
+        "IFileManager": {
+            "path": "Files/File_1701257028682180_17151"
+        }
+    },
+    "1701257028685299:17152": {
+        "IResourceController": {
+            "name": "Script Graph",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701257028685317:17153",
+            "fileId": "1701257028682180:17151",
+            "originalId": "1701257028685530:17157",
+            "publicId": "1701257028680439:17149",
+            "expected_hash": "5634fb15104744e0d799497b86e16874"
+        },
+        "IResourceManager": {
+            "uid": "1701257028685317:17153",
+            "name": "Files/File_1701257028682180_17151",
+            "flags": 1
+        }
+    },
+    "1701257028685317:17153": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1701257028685530:17157": {
+        "IFileManager": {
+            "path": "Files/File_1701257028685530_17157.lsscript"
+        }
+    }
+}

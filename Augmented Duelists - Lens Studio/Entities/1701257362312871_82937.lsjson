@@ -1,0 +1,17 @@
+{
+    "1701257362312871:82937": {
+        "IResourceController": {
+            "name": "Sphere 5",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701257362312870:82936"
+        },
+        "IResourceManager": {
+            "uid": "1701257362312870:82936",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

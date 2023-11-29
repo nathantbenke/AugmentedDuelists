@@ -1,0 +1,17 @@
+{
+    "1701257362314888:83075": {
+        "IResourceController": {
+            "name": "Torus 2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701257362314888:83074"
+        },
+        "IResourceManager": {
+            "uid": "1701257362314888:83074",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

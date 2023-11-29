@@ -1,0 +1,25 @@
+{
+    "1701257915553439:394426": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701257916661913:395553",
+            "resources": [
+                "1701257915555490:394429",
+                "1701257915860396:394596",
+                "1701257916076944:394737",
+                "1701257916297782:394881"
+            ]
+        }
+    },
+    "1701257916661913:395553": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/AnimatedModels/SpikeyShell_003/Materials"
+            }
+        }
+    }
+}

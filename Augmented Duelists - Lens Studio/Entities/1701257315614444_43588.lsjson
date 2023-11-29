@@ -1,0 +1,24 @@
+{
+    "1701257315614444:43588": {
+        "IResourceController": {
+            "name": "AnimatedModels",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701257315614633:43589",
+            "resources": [
+                "1701257349657298:55373",
+                "1701257359347554:77781",
+                "1701257912447778:393147"
+            ]
+        }
+    },
+    "1701257315614633:43589": {
+        "IResourceController": {
+            "public": {
+                "path": "AnimatedModels"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1701257362322652:83558": {
+        "IResourceController": {
+            "name": "Cone.001 5",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701257362322651:83557"
+        },
+        "IResourceManager": {
+            "uid": "1701257362322651:83557",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1701257915665162:394496": {
+        "IResourceController": {
+            "name": "Screen Texture",
+            "type": 1,
+            "subtype": 16,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701257915665157:394495"
+        },
+        "IResourceManager": {
+            "uid": "1701257915665157:394495",
+            "name": "Screen Texture",
+            "flags": 0
+        }
+    }
+}

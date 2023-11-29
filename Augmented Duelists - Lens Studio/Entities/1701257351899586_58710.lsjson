@@ -1,0 +1,17 @@
+{
+    "1701257351899586:58710": {
+        "IResourceController": {
+            "name": "Icosphere",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701257351899586:58709"
+        },
+        "IResourceManager": {
+            "uid": "1701257351899586:58709",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

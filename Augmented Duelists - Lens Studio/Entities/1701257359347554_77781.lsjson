@@ -1,0 +1,63 @@
+{
+    "1701257359347554:77781": {
+        "IResourceController": {
+            "name": "SpikeyShell_002",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1701257363557474:89061",
+            "publicId": "1701257363640016:89123",
+            "expected_hash": "5d1901c1de9fb96673f2ed951f32e544",
+            "resources": [
+                "1701257362122416:82666",
+                "1701257362312076:82896",
+                "1701257362347881:84779",
+                "1701257363433633:86926"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1701257362350114:84788"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1701257362707835:84948"
+                    },
+                    {
+                        "k": "Material 3",
+                        "v": "1701257362940352:85061"
+                    },
+                    {
+                        "k": "Material 4",
+                        "v": "1701257363171144:85174"
+                    }
+                ]
+            }
+        }
+    },
+    "1701257363557474:89061": {
+        "IFileManager": {
+            "path": "Files/File_1701257363557474_89061.fbx"
+        }
+    },
+    "1701257363640016:89123": {
+        "IResourceController": {
+            "public": {
+                "path": "AnimatedModels/SpikeyShell_002.fbx",
+                "hash": "5d1901c1de9fb96673f2ed951f32e544"
+            }
+        }
+    }
+}

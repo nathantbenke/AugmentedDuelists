@@ -1,0 +1,39 @@
+{
+    "1701257915553868:394427": {
+        "IFileManager": {
+            "path": "Files/File_1701257915553868_394427"
+        }
+    },
+    "1701257915555490:394429": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701257915555494:394430",
+            "fileId": "1701257915553868:394427",
+            "originalId": "1701257915567478:394441",
+            "publicId": "1701257916663653:395554",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1701257915555494:394430",
+            "name": "Files/File_1701257915553868_394427",
+            "flags": 1
+        }
+    },
+    "1701257915567478:394441": {
+        "IFileManager": {
+            "path": "Files/File_1701257915567478_394441.lsmat"
+        }
+    },
+    "1701257916663653:395554": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/AnimatedModels/SpikeyShell_003/Materials/Material.lsmat",
+                "hash": "fd5132d9d5fd8df164f79f3af4baa72c"
+            }
+        }
+    }
+}
