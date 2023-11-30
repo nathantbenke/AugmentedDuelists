@@ -14,7 +14,7 @@
             "uid": "1700728357018072:388680",
             "fileId": "1700728357016624:388678",
             "originalId": "1700728357058656:388692",
-            "publicId": "1700728359307546:389741",
+            "publicId": "1701339766839389:28670",
             "expected_hash": "d9f476183f34b7013d4c658c014833c3"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1700728357058656_388692.lsmat"
         }
     },
-    "1700728359307546:389741": {
+    "1701339766839389:28670": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Spike_wheel_Animated/Materials/Brown.lsmat",
-                "hash": "0d0f48cb50e241fc70058389f8e02dbc"
+                "path": "../AdditionalFiles/Spike_wheel_Animated/Materials0/Brown.lsmat",
+                "hash": "f246c721b58d4d760535141b82d94741"
             }
         }
     }

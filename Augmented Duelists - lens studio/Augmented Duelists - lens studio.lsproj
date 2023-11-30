@@ -248,7 +248,7 @@
             "sg": "false",
             "git_friendly": "true",
             "activation_camera": "front",
-            "Spectacles2021UseAllowed": "false"
+            "Spectacles2021UseAllowed": "true"
         },
         "ObjectTracking3DUIComponent": "",
         "PreviewUiComponent": {
@@ -347,6 +347,10 @@
                 {
                     "k": "1700729696848919:922794",
                     "v": "2kJmVPnDf4NaVhSzaIwLKT"
+                },
+                {
+                    "k": "1701269460667352:2789677",
+                    "v": "7tQgi0v1CyQvnxKjJxAlZr"
                 }
             ]
         },

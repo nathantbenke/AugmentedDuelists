@@ -11,9 +11,9 @@
                     "attachRight": "false",
                     "attachTop": "false",
                     "fixHeight": "false",
-                    "fixWidth": "false"
+                    "fixWidth": "true"
                 },
-                "isBasicMode": "true"
+                "isBasicMode": "false"
             }
         }
     }
