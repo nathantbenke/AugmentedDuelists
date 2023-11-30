@@ -1,12 +1,4 @@
 {
-    "1700695091960958:573286": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/Scripts",
-                "hash": "eaa3065a537369ddf6c8755444431078"
-            }
-        }
-    },
     "1700695091963854:573293": {
         "IResourceController": {
             "name": "Scripts",
@@ -14,12 +6,19 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1700695091960958:573286",
+            "publicId": "1701339766764689:28651",
             "resources": [
                 "1700695091967735:573297",
                 "1700727944825300:232161",
                 "1700727944847560:232190"
             ]
+        }
+    },
+    "1701339766764689:28651": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Scripts"
+            }
         }
     }
 }

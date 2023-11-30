@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727981696407:248367",
             "fileId": "1700727981680405:248361",
-            "publicId": "1700727981709127:248381",
+            "publicId": "1701339766906928:28687",
             "expected_hash": "33f517de000ffa74f58a613fbc958eba",
             "additional": {
                 "info": {
@@ -114,7 +114,7 @@
             "path": "Files/File_1700727981702959_248380.mesh"
         }
     },
-    "1700727981709127:248381": {
+    "1701339766906928:28687": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Meshes/monster_eye_R.mesh",

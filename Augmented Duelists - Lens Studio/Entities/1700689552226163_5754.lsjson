@@ -7,7 +7,7 @@
             "dependency": 2,
             "hidden": false,
             "fileId": "1700689555747456:7144",
-            "publicId": "1700693050659205:7468",
+            "publicId": "1701339766568277:28611",
             "expected_hash": "24fb4ed476a8c29717813cc0fb1f2928",
             "resources": [
                 "1700689553837376:6419",
@@ -52,7 +52,7 @@
             "path": "Files/File_1700689555747456_7144.fbx"
         }
     },
-    "1700693050659205:7468": {
+    "1701339766568277:28611": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/SpikeyShell_Animated.fbx",
