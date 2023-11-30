@@ -1,0 +1,38 @@
+{
+    "1701217268296881:912750": {
+        "IFileManager": {
+            "path": "Files/File_1701217268296881_912750.js"
+        }
+    },
+    "1701217268298988:912751": {
+        "IResourceController": {
+            "name": "InitialState",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701217268299009:912752",
+            "fileId": "1701217268296881:912750",
+            "publicId": "1701217268306526:912757",
+            "expected_hash": "3fc55b1c7ae2540f78e4d150a3bbbf44"
+        },
+        "IResourceManager": {
+            "uid": "1701217268299009:912752",
+            "name": "Files/File_1701217268296881_912750.js",
+            "flags": 1
+        }
+    },
+    "1701217268299009:912752": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1701217268306526:912757": {
+        "IResourceController": {
+            "public": {
+                "path": "InitialState.js",
+                "hash": "3fc55b1c7ae2540f78e4d150a3bbbf44"
+            }
+        }
+    }
+}

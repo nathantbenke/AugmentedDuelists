@@ -14,7 +14,7 @@
             "uid": "1700763199743687:67931",
             "fileId": "1700763199740849:67929",
             "publicId": "1700763199757719:67944",
-            "expected_hash": "396898409d8b72ee3c979475b56ad761"
+            "expected_hash": "6a68eb88e3f2c04983adafa5a246bd79"
         },
         "IResourceManager": {
             "uid": "1700763199743687:67931",
@@ -31,7 +31,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/TurnController.js",
-                "hash": "396898409d8b72ee3c979475b56ad761"
+                "hash": "6a68eb88e3f2c04983adafa5a246bd79"
             }
         }
     }

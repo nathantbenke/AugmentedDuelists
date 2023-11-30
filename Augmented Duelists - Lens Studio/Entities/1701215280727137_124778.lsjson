@@ -1,0 +1,39 @@
+{
+    "1701215280724436:124777": {
+        "IFileManager": {
+            "path": "Files/File_1701215280724436_124777"
+        }
+    },
+    "1701215280727137:124778": {
+        "IResourceController": {
+            "name": "MarkerBRed",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701215280732209:124785",
+            "fileId": "1701215280724436:124777",
+            "originalId": "1701215280732453:124790",
+            "publicId": "1701215280739123:124791",
+            "expected_hash": "021270631ad5b73a893c388568934ebd"
+        },
+        "IResourceManager": {
+            "uid": "1701215280732209:124785",
+            "name": "Files/File_1701215280724436_124777",
+            "flags": 1
+        }
+    },
+    "1701215280732453:124790": {
+        "IFileManager": {
+            "path": "Files/File_1701215280732453_124790.png"
+        }
+    },
+    "1701215280739123:124791": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerBRed.png",
+                "hash": "3cbe16fa94efe6cba3b4fc2ac6d986be"
+            }
+        }
+    }
+}

@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Materials/mark_material.lsmat",
-                "hash": "5a0926ebde7bdd1cab3226cf53be5723"
+                "hash": "b4bfc73d5eff4ce41e0f1acdbc77a47a"
             }
         }
     }

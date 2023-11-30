@@ -1,0 +1,66 @@
+{
+    "1701215009172853:18529": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/PNG/Yellow_Marker.png",
+                "hash": "061f4eec63a725fcad75db4a334da99c"
+            }
+        }
+    },
+    "1701215009192881:18530": {
+        "IFileManager": {
+            "path": "Files/File_1701215009192881_18530.png"
+        }
+    },
+    "1701215009201733:18531": {
+        "IResourceController": {
+            "name": "Yellow_Marker",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701215009224893:18532",
+            "fileId": "1701215009192881:18530",
+            "originalId": "1701215009226960:18537",
+            "publicId": "1701215009172853:18529",
+            "expected_hash": "061f4eec63a725fcad75db4a334da99c",
+            "additional": {
+                "originHash": "061f4eec63a725fcad75db4a334da99c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701215009224893:18532",
+            "name": "Files/File_1701215009192881_18530.png",
+            "flags": 1
+        }
+    },
+    "1701215009224893:18532": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "88588",
+                "extension": "png",
+                "originalRAM": "4000000",
+                "originalSize": "88588",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1701215009244465:18538"
+        }
+    },
+    "1701215009226960:18537": {
+        "IFileManager": {
+            "path": "Files/File_1701215009226960_18537.png"
+        }
+    },
+    "1701215009244465:18538": {
+        "IFileManager": {
+            "path": "Files/File_1701215009244465_18538.png"
+        }
+    }
+}

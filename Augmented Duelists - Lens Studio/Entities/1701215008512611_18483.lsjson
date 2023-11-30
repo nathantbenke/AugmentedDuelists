@@ -1,0 +1,66 @@
+{
+    "1701215008458197:18481": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/PNG/MarkerC.png",
+                "hash": "bab19eae1981d2fa51381e08434a3f5f"
+            }
+        }
+    },
+    "1701215008500243:18482": {
+        "IFileManager": {
+            "path": "Files/File_1701215008500243_18482.png"
+        }
+    },
+    "1701215008512611:18483": {
+        "IResourceController": {
+            "name": "MarkerC",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701215008533573:18484",
+            "fileId": "1701215008500243:18482",
+            "originalId": "1701215008534174:18489",
+            "publicId": "1701215008458197:18481",
+            "expected_hash": "bab19eae1981d2fa51381e08434a3f5f",
+            "additional": {
+                "originHash": "bab19eae1981d2fa51381e08434a3f5f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701215008533573:18484",
+            "name": "Files/File_1701215008500243_18482.png",
+            "flags": 1
+        }
+    },
+    "1701215008533573:18484": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "172738",
+                "extension": "png",
+                "originalRAM": "4000000",
+                "originalSize": "172738",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1701215008567854:18490"
+        }
+    },
+    "1701215008534174:18489": {
+        "IFileManager": {
+            "path": "Files/File_1701215008534174_18489.png"
+        }
+    },
+    "1701215008567854:18490": {
+        "IFileManager": {
+            "path": "Files/File_1701215008567854_18490.png"
+        }
+    }
+}

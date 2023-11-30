@@ -16,7 +16,7 @@ var turnCounter = true;
 //"SpikeShell", "Attack1", "Attack2", "Attack3", "Swap",
 
 var imageTrackingcurrentlyTracked = script.imageTracking.currentlyTracked;
-print("TurnController(): currentlyTracked: " + imageTrackingcurrentlyTracked);
+//print("TurnController(): currentlyTracked: " + imageTrackingcurrentlyTracked);
 
 if (imageTrackingcurrentlyTracked)
 {

@@ -258,15 +258,15 @@
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
-            "input_stream_type": "InteractiveEnvironment",
+            "input_stream_type": "Video",
             "preview_images_project_config": {
-                "back_preview_id": "bundle:Preview\/Images\/Image Marker.jpg",
+                "back_preview_id": "bundle:Preview\/Images\/Snapcode To Marker.jpg",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
-                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_id": "bundle:Preview\/Videos\/Snapcode Wall.webm",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
                 "front_preview_is_favorite": "false"
@@ -276,18 +276,6 @@
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "front_preview_is_favorite": "false"
-            },
-            "ie_saved_device_transformation": {
-                "eulerRotation": {
-                    "x": "-37.4069519",
-                    "y": "353.928772",
-                    "z": "0"
-                },
-                "translation": {
-                    "x": "-75.5121384",
-                    "y": "0",
-                    "z": "-243.162079"
-                }
             }
         },
         "ResourceUiComponent": "",

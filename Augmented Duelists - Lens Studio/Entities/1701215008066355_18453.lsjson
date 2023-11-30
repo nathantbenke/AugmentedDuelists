@@ -1,0 +1,66 @@
+{
+    "1701215008005464:18451": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/PNG/MarkerARed.png",
+                "hash": "878cd09eed4b4b1c1924e5134da5bdd4"
+            }
+        }
+    },
+    "1701215008056027:18452": {
+        "IFileManager": {
+            "path": "Files/File_1701215008056027_18452.png"
+        }
+    },
+    "1701215008066355:18453": {
+        "IResourceController": {
+            "name": "MarkerARed",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701215008091162:18454",
+            "fileId": "1701215008056027:18452",
+            "originalId": "1701215008091989:18459",
+            "publicId": "1701215008005464:18451",
+            "expected_hash": "878cd09eed4b4b1c1924e5134da5bdd4",
+            "additional": {
+                "originHash": "878cd09eed4b4b1c1924e5134da5bdd4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701215008091162:18454",
+            "name": "Files/File_1701215008056027_18452.png",
+            "flags": 1
+        }
+    },
+    "1701215008091162:18454": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "872666",
+                "extension": "png",
+                "originalRAM": "4000000",
+                "originalSize": "872666",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1701215008115147:18460"
+        }
+    },
+    "1701215008091989:18459": {
+        "IFileManager": {
+            "path": "Files/File_1701215008091989_18459.png"
+        }
+    },
+    "1701215008115147:18460": {
+        "IFileManager": {
+            "path": "Files/File_1701215008115147_18460.png"
+        }
+    }
+}
