@@ -14,7 +14,7 @@
             "uid": "1700689555353682:6712",
             "fileId": "1700689555352015:6710",
             "originalId": "1700689555378087:6716",
-            "publicId": "1701339766597336:28616",
+            "publicId": "1701358385227152:20226",
             "expected_hash": "d9f476183f34b7013d4c658c014833c3"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1700689555378087_6716.lsmat"
         }
     },
-    "1701339766597336:28616": {
+    "1701358385227152:20226": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/SpikeyShell_Animated/Materials0/Material 4.lsmat",
-                "hash": "a1a05489050581bf7082165425fac81a"
+                "path": "../AdditionalFiles/Assets/Character Models/SpikeyShell_Animated/Materials00/Material 4.lsmat",
+                "hash": "638b435d75edc223b1768ff42cf47279"
             }
         }
     }

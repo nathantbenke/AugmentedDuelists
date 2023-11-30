@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727944854056:232194",
             "fileId": "1700727944849816:232192",
-            "publicId": "1701339766778185:28658",
+            "publicId": "1701358385441129:20268",
             "expected_hash": "3cc4be26c245e252bd962edb0dc1820d"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701339766778185:28658": {
+    "1701358385441129:20268": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Scripts/Monsters/MonsterCard.js",

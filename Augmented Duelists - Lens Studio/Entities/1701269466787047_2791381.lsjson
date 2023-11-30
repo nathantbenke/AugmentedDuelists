@@ -14,7 +14,7 @@
             "uid": "1701269466787056:2791382",
             "fileId": "1701269466784160:2791380",
             "originalId": "1701269466830262:2791388",
-            "publicId": "1701339767115576:28727",
+            "publicId": "1701358385995178:20337",
             "expected_hash": "9bb9413e58847d1854dd399e5fa58e4a"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1701269466830262_2791388.lsmat"
         }
     },
-    "1701339767115576:28727": {
+    "1701358385995178:20337": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Materials/Info Card Background.lsmat",
-                "hash": "2742b68cbcef2ef85c5947e532df6f1a"
+                "hash": "f213d329e999b4cbf0f4e07f84f60ce6"
             }
         }
     }

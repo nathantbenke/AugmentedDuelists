@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701339766758926:28648",
+            "publicId": "1701358385423101:20258",
             "resources": [
                 "1700727944605558:231985",
                 "1700735447354653:125747"
             ]
         }
     },
-    "1701339766758926:28648": {
+    "1701358385423101:20258": {
         "IResourceController": {
             "public": {
                 "path": "Assets/MonsterPrefabs"
