@@ -9,7 +9,7 @@
             "uid": "1701269460667352:2789677",
             "fileId": "1701269460929300:2789748",
             "originalId": "1701339778008630:30359",
-            "publicId": "1701339767181174:28747",
+            "publicId": "1701358386077677:20357",
             "expected_hash": "c50d93e340201574f1e85dc6e391900c"
         },
         "IResourceManager": {
@@ -23,17 +23,17 @@
             "path": "Files/File_1701269460929300_2789748.oprfb"
         }
     },
-    "1701339767181174:28747": {
-        "IResourceController": {
-            "public": {
-                "path": "Resource_Bar_Pack____PUT_IN_ORTHO_CAM.oprfb",
-                "hash": "c50d93e340201574f1e85dc6e391900c"
-            }
-        }
-    },
     "1701339778008630:30359": {
         "IFileManager": {
             "path": "Files/File_1701339778008630_30359.oprfb"
+        }
+    },
+    "1701358386077677:20357": {
+        "IResourceController": {
+            "public": {
+                "path": "Resource_Bar_Pack____PUT_IN_ORTHO_CAM.oprfb",
+                "hash": "205ee3510719e39f1a0d85896d773834"
+            }
         }
     }
 }

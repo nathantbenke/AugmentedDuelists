@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727944842643:232178",
             "fileId": "1700727944838377:232174",
-            "publicId": "1701339766775080:28656",
+            "publicId": "1701358385437607:20266",
             "expected_hash": "103491879280814f9b6bf9cab5bbadb6"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701339766775080:28656": {
+    "1701358385437607:20266": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Scripts/Game/Player.js",

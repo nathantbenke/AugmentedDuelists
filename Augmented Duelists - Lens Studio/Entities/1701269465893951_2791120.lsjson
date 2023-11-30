@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701339767084217:28719",
+            "publicId": "1701358385933823:20329",
             "resources": [
                 "1701269465896521:2791123",
                 "1701269466020268:2791164",
@@ -14,7 +14,7 @@
             ]
         }
     },
-    "1701339767084217:28719": {
+    "1701358385933823:20329": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]"

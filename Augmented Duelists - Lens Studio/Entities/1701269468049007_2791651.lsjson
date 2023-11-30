@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701339767121910:28729",
+            "publicId": "1701358386003126:20339",
             "resources": [
                 "1701269468051439:2791653",
                 "1701269468118770:2791680"
             ]
         }
     },
-    "1701339767121910:28729": {
+    "1701358386003126:20339": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Textures/Life Bar designs"
