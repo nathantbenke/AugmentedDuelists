@@ -1,0 +1,33 @@
+{
+    "1701531140468730:18243": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Markers/Snapcode.pdf",
+                "hash": "6147f0d12a8f970ec5290b8a98aac82d"
+            }
+        }
+    },
+    "1701531140469708:18244": {
+        "IFileManager": {
+            "path": "Files/File_1701531140469708_18244.pdf"
+        }
+    },
+    "1701531140472077:18245": {
+        "IResourceController": {
+            "name": "Snapcode",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701531140472099:18246",
+            "fileId": "1701531140469708:18244",
+            "publicId": "1701531140468730:18243",
+            "expected_hash": "6147f0d12a8f970ec5290b8a98aac82d"
+        },
+        "IResourceManager": {
+            "uid": "1701531140472099:18246",
+            "name": "Files/File_1701531140469708_18244.pdf",
+            "flags": 1
+        }
+    }
+}

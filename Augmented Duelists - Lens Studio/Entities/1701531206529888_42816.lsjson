@@ -1,0 +1,39 @@
+{
+    "1701531206529888:42816": {
+        "IResourceController": {
+            "name": "Snapcode Tracking",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701531206529515:42785",
+            "fileId": "1701531206663540:42885",
+            "originalId": "1701531293668044:73555",
+            "publicId": "1701531206668483:42888",
+            "expected_hash": "656474bd40c72dcf256d5d91dd2e9f31"
+        },
+        "IResourceManager": {
+            "uid": "1701531206529515:42785",
+            "name": "Snapcode Tracking",
+            "flags": 0
+        }
+    },
+    "1701531206663540:42885": {
+        "IFileManager": {
+            "path": "Files/File_1701531206663540_42885.oprfb"
+        }
+    },
+    "1701531206668483:42888": {
+        "IResourceController": {
+            "public": {
+                "path": "Snapcode Tracking.oprfb",
+                "hash": "86e719c6b5d0932bce273c6021c00097"
+            }
+        }
+    },
+    "1701531293668044:73555": {
+        "IFileManager": {
+            "path": "Files/File_1701531293668044_73555.oprfb"
+        }
+    }
+}
