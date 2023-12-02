@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701269462225943:2790498",
             "fileId": "1701269462220070:2790496",
-            "publicId": "1701444132756148:20312",
+            "publicId": "1701547794189079:20795",
             "expected_hash": "2a4c4fcf60ff0a2cf3a4e194e308debe"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701444132756148:20312": {
+    "1701547794189079:20795": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Scripts/ContinuousBarUpdaterScript.js",
