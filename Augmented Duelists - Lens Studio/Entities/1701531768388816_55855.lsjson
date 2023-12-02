@@ -23,7 +23,7 @@
             "fileId": "1701531768380557:55854",
             "originalId": "1701531768395974:55867",
             "publicId": "1701531768352723:55851",
-            "expected_hash": "d45d5306a77652dff38f79748469b3e7",
+            "expected_hash": "8d2398faa868238391ab8c34c4644846",
             "additional": {
                 "originHash": "d45d5306a77652dff38f79748469b3e7"
             }
@@ -36,24 +36,26 @@
     },
     "1701531768395030:55862": {
         "Compression::IController": {
-            "compressed_files": "",
-            "desiredSettings": {
-                "isCompressed": "true",
-                "level": "2",
-                "subtype": "9",
-                "type": "1"
-            },
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d45d5306a77652dff38f79748469b3e7"
+                    },
+                    "v": "1701531848476008:100629"
+                }
+            ],
             "infos": {
-                "compressedRAM": "3689136",
-                "compressedSize": "237615",
+                "compressedRAM": "463088",
+                "compressedSize": "78711",
                 "extension": "png",
                 "originalRAM": "3689136",
                 "originalSize": "237615",
                 "settings": {
-                    "isCompressed": "false",
-                    "level": "0",
+                    "isCompressed": "true",
+                    "level": "2",
                     "subtype": "9",
-                    "type": "0"
+                    "type": "1"
                 }
             },
             "uncompressed_file": "1701531768423947:55876"
@@ -67,6 +69,11 @@
     "1701531768423947:55876": {
         "IFileManager": {
             "path": "Files/File_1701531768423947_55876.png"
+        }
+    },
+    "1701531848476008:100629": {
+        "IFileManager": {
+            "path": "Files/File_1701531848476008_100629.pvr"
         }
     }
 }

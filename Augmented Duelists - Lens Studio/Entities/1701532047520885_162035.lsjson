@@ -1,0 +1,17 @@
+{
+    "1701532047520885:162035": {
+        "IResourceController": {
+            "name": "Snapcode Marker",
+            "type": 15,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701532047520880:162034"
+        },
+        "IResourceManager": {
+            "uid": "1701532047520880:162034",
+            "name": "Snapcode Marker",
+            "flags": 0
+        }
+    }
+}

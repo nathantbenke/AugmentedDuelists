@@ -1,0 +1,39 @@
+{
+    "1701532231595425:219510": {
+        "IFileManager": {
+            "path": "Files/File_1701532231595425_219510"
+        }
+    },
+    "1701532231597102:219511": {
+        "IResourceController": {
+            "name": "Simple PBR",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701532231597108:219512",
+            "fileId": "1701532231595425:219510",
+            "originalId": "1701532231625269:219524",
+            "publicId": "1701532232059347:219670",
+            "expected_hash": "3af46b0f32d263d8b4c05d7133272956"
+        },
+        "IResourceManager": {
+            "uid": "1701532231597108:219512",
+            "name": "Files/File_1701532231595425_219510",
+            "flags": 1
+        }
+    },
+    "1701532231625269:219524": {
+        "IFileManager": {
+            "path": "Files/File_1701532231625269_219524.lsmat"
+        }
+    },
+    "1701532232059347:219670": {
+        "IResourceController": {
+            "public": {
+                "path": "_Progress Bar Ressources._/Materials/Frame Materials/Simple PBR.lsmat",
+                "hash": "bda0e08bd09913aafc6d408a315c22b4"
+            }
+        }
+    }
+}
