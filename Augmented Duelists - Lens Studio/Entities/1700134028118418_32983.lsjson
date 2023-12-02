@@ -6,13 +6,13 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701531658538917:20664",
+            "publicId": "1701535100879631:23324",
             "resources": [
                 "1700693303279370:92796"
             ]
         }
     },
-    "1701531658538917:20664": {
+    "1701535100879631:23324": {
         "IResourceController": {
             "public": {
                 "path": "MonsterMarker"

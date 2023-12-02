@@ -1,12 +1,4 @@
 {
-    "1701531764608076:55659": {
-        "IResourceController": {
-            "public": {
-                "path": "Assets/MonsterCards",
-                "hash": "d74379763521c3201b40a1868eefbbf1"
-            }
-        }
-    },
     "1701531764613218:55660": {
         "IResourceController": {
             "name": "MonsterCards",
@@ -14,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701531764608076:55659",
+            "publicId": "1701535101128237:23386",
             "resources": [
                 "1701531764736127:55677",
                 "1701531764977681:55713",
@@ -23,6 +15,13 @@
                 "1701531768388816:55855",
                 "1701531768543364:55911"
             ]
+        }
+    },
+    "1701535101128237:23386": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterCards"
+            }
         }
     }
 }

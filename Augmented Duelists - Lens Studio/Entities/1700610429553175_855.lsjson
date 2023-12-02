@@ -14,7 +14,7 @@
             "uid": "1700610429556999:856",
             "fileId": "1700610429551210:854",
             "originalId": "1700610429557353:861",
-            "publicId": "1701531658739589:20702",
+            "publicId": "1701535101045990:23364",
             "expected_hash": "c70593fb286a188d21912f3f508a2793",
             "additional": {
                 "originHash": "e0076b631d844d33e1f83001aa752510"
@@ -68,7 +68,7 @@
             "path": "Files/File_1700610473184833_8260.pvr"
         }
     },
-    "1701531658739589:20702": {
+    "1701535101045990:23364": {
         "IResourceController": {
             "public": {
                 "path": "Assets/PlaySpace/PNG/PlayspaceTemplate_002.png",

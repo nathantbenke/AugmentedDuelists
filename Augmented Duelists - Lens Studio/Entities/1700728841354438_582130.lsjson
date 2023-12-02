@@ -14,7 +14,7 @@
             "uid": "1700728841358649:582131",
             "fileId": "1700728841351618:582129",
             "originalId": "1700728841358930:582136",
-            "publicId": "1701531659038172:20759",
+            "publicId": "1701535101335858:23429",
             "expected_hash": "adf8ce11e45e5613aec3094a416477a8"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1700728841358930_582136.png"
         }
     },
-    "1701531659038172:20759": {
+    "1701535101335858:23429": {
         "IResourceController": {
             "public": {
                 "path": "SpikyShell_MonsterMarker.png",

@@ -9,7 +9,7 @@
             "uid": "1701459998658857:3189918",
             "fileId": "1701459998761265:3190071",
             "originalId": "1701478306461015:4632349",
-            "publicId": "1701531658805837:20714",
+            "publicId": "1701535101099664:23377",
             "expected_hash": "7075a42b62e36e312ef916d3d7243c9c"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1701478306461015_4632349.oprfb"
         }
     },
-    "1701531658805837:20714": {
+    "1701535101099664:23377": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Prefabs/Manager.oprfb",
-                "hash": "5b399e6d3933870b08a3a943090f2799"
+                "hash": "0d2c8a2c9cd3002712547584ab49e5bb"
             }
         }
     }

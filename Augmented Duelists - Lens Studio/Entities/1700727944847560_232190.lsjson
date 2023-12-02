@@ -6,13 +6,13 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701531658835909:20721",
+            "publicId": "1701535101122120:23384",
             "resources": [
                 "1700727944854025:232193"
             ]
         }
     },
-    "1701531658835909:20721": {
+    "1701535101122120:23384": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Scripts/Monsters"

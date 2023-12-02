@@ -6,13 +6,13 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701532231750834:219591",
+            "publicId": "1701535101546118:23484",
             "resources": [
                 "1701532231738290:219576"
             ]
         }
     },
-    "1701532231750834:219591": {
+    "1701535101546118:23484": {
         "IResourceController": {
             "public": {
                 "path": "Textures"

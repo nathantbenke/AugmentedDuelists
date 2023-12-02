@@ -14,7 +14,7 @@
             "uid": "1701532231739112:219577",
             "fileId": "1701532231736087:219575",
             "originalId": "1701532231739457:219582",
-            "publicId": "1701532231752821:219592",
+            "publicId": "1701535101547392:23485",
             "expected_hash": "cb607d7b25a160872c49fb4d2635cc33",
             "additional": {
                 "originHash": "cb607d7b25a160872c49fb4d2635cc33"
@@ -31,7 +31,7 @@
             "path": "Files/File_1701532231739457_219582.png"
         }
     },
-    "1701532231752821:219592": {
+    "1701535101547392:23485": {
         "IResourceController": {
             "public": {
                 "path": "Textures/Base.png",
