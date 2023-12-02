@@ -31,8 +31,8 @@
     "1701549075949062:376270": {
         "IResourceController": {
             "public": {
-                "path": "Black.lsmat",
-                "hash": "f2609d99a4fcafcb774fd4568849a014"
+                "path": "Snapcode_Resources/Black.lsmat",
+                "hash": "05d9854f08e5b6ee6331a7fa75a8a7cb"
             }
         }
     }
