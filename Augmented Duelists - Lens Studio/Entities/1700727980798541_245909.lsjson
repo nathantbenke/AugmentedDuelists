@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727980798561:245910",
             "fileId": "1700727980795891:245905",
-            "publicId": "1701444132630745:20289",
+            "publicId": "1701535101245601:23412",
             "expected_hash": "03c7b87dda24f0e6ff69db5cece7f520"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701444132630745:20289": {
+    "1701535101245601:23412": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/ExtendedMarkerTracking/ExtendedMarkerTracking.js",

@@ -14,7 +14,7 @@
             "uid": "1700727981860772:248469",
             "fileId": "1700727981858656:248467",
             "originalId": "1700727981893760:248475",
-            "publicId": "1701444132679887:20302",
+            "publicId": "1701535101305145:23425",
             "expected_hash": "892343d8cc39d44d84fc9b376ae2bdc6"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1700727981893760_248475.lsmat"
         }
     },
-    "1701444132679887:20302": {
+    "1701535101305145:23425": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Materials/mark_material.lsmat",

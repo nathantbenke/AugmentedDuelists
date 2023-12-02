@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701444132496883:20265",
+            "publicId": "1701535101110701:23381",
             "resources": [
                 "1700727944832899:232164",
                 "1700727944842555:232177"
             ]
         }
     },
-    "1701444132496883:20265": {
+    "1701535101110701:23381": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Scripts/Game"

@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429210748:730",
             "fileId": "1700610429208339:728",
-            "publicId": "1701444132206735:20219",
+            "publicId": "1701535100910530:23331",
             "expected_hash": "5560abae4d841961e93f123165b7a7e8"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701444132206735:20219": {
+    "1701535100910530:23331": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/SpikeyShell_001.blend",

@@ -1,0 +1,33 @@
+{
+    "1701531764219534:55074": {
+        "IFileManager": {
+            "path": "Files/File_1701531764219534_55074.blend"
+        }
+    },
+    "1701531764223537:55075": {
+        "IResourceController": {
+            "name": "Everard",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701531764223564:55076",
+            "fileId": "1701531764219534:55074",
+            "publicId": "1701535100991195:23347",
+            "expected_hash": "ce8cbf345083589b2b4c4cfb99d5848d"
+        },
+        "IResourceManager": {
+            "uid": "1701531764223564:55076",
+            "name": "Files/File_1701531764219534_55074.blend",
+            "flags": 1
+        }
+    },
+    "1701535100991195:23347": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Everard.blend",
+                "hash": "ce8cbf345083589b2b4c4cfb99d5848d"
+            }
+        }
+    }
+}

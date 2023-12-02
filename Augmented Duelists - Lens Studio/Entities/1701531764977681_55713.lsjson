@@ -1,0 +1,79 @@
+{
+    "1701531764974043:55712": {
+        "IFileManager": {
+            "path": "Files/File_1701531764974043_55712.pvr"
+        }
+    },
+    "1701531764977681:55713": {
+        "IResourceController": {
+            "name": "MonsterCard_Bramble_2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701531764989394:55714",
+            "fileId": "1701531764974043:55712",
+            "originalId": "1701531764990116:55719",
+            "publicId": "1701535101133617:23388",
+            "expected_hash": "18c7e633497c833a99397798d45ebc63",
+            "additional": {
+                "originHash": "e3dab03fb32565090152fdee6da8860f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701531764989394:55714",
+            "name": "Files/File_1701531764974043_55712.png",
+            "flags": 1
+        }
+    },
+    "1701531764989394:55714": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e3dab03fb32565090152fdee6da8860f"
+                    },
+                    "v": "1701531810586237:82378"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "463088",
+                "compressedSize": "80774",
+                "extension": "png",
+                "originalRAM": "3689136",
+                "originalSize": "228649",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701531765006526:55720"
+        }
+    },
+    "1701531764990116:55719": {
+        "IFileManager": {
+            "path": "Files/File_1701531764990116_55719.png"
+        }
+    },
+    "1701531765006526:55720": {
+        "IFileManager": {
+            "path": "Files/File_1701531765006526_55720.png"
+        }
+    },
+    "1701531810586237:82378": {
+        "IFileManager": {
+            "path": "Files/File_1701531810586237_82378.pvr"
+        }
+    },
+    "1701535101133617:23388": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/MonsterCards/MonsterCard_Bramble_2.png",
+                "hash": "e3dab03fb32565090152fdee6da8860f"
+            }
+        }
+    }
+}
