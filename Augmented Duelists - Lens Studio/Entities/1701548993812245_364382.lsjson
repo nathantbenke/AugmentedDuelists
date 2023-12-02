@@ -117,7 +117,7 @@
     "1701548993850280:364396": {
         "IResourceController": {
             "public": {
-                "path": "Box.mesh",
+                "path": "Snapcode_Resources/Box.mesh",
                 "hash": "621da74e06cc402b895f39376927a9d1"
             }
         }
