@@ -7,7 +7,7 @@
             "dependency": 2,
             "hidden": false,
             "fileId": "1700689558998686:8741",
-            "publicId": "1701358385233755:20227",
+            "publicId": "1701444132297994:20228",
             "expected_hash": "18392a1bb7aed8510eae7341b4d6a3fe",
             "resources": [
                 "1700689557288678:8048",
@@ -51,7 +51,7 @@
             "path": "Files/File_1700689558998686_8741.fbx"
         }
     },
-    "1701358385233755:20227": {
+    "1701444132297994:20228": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Spike_wheel_Animated.fbx",

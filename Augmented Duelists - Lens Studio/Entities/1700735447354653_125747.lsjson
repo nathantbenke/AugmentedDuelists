@@ -9,7 +9,7 @@
             "uid": "1700735447352137:125714",
             "fileId": "1700735447627168:125831",
             "originalId": "1700735516624866:156512",
-            "publicId": "1701358385427818:20260",
+            "publicId": "1701444132488645:20261",
             "expected_hash": "25af625809c12500def513ffc4f95381"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1700735516624866_156512.oprfb"
         }
     },
-    "1701358385427818:20260": {
+    "1701444132488645:20261": {
         "IResourceController": {
             "public": {
-                "path": "Assets/MonsterPrefabs/TestMonster2.oprfb",
-                "hash": "b37632d05248afbc1c3e9053fccc19f2"
+                "path": "Assets/Prefabs/TestMonster2.oprfb",
+                "hash": "942e43ffc31a90d8aa42aef1cf8d38ec"
             }
         }
     }

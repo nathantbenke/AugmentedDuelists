@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701269462307600:2790525",
             "fileId": "1701269462297225:2790521",
-            "publicId": "1701358385729294:20312",
+            "publicId": "1701444132771240:20313",
             "expected_hash": "3b1b492baec72f81297675c059cf6559"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701358385729294:20312": {
+    "1701444132771240:20313": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Scripts/SegmentedBarUpdaterScript.js",

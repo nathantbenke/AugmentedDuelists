@@ -258,7 +258,7 @@
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
-            "input_stream_type": "Image",
+            "input_stream_type": "Video",
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Body.jpg",
                 "back_preview_is_favorite": "false",
@@ -266,7 +266,7 @@
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
-                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_id": "bundle:Preview\/Videos\/Brick.webm",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
                 "front_preview_is_favorite": "false"
@@ -731,6 +731,34 @@
                                 {
                                     "k": "1700735295293729:42750",
                                     "v": "1700735295293729:42750"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1700735914544624:290674",
+                        "v": {
+                            "prefab": "1701459998658857:3189918",
+                            "mapping": [
+                                {
+                                    "k": "1700735914544624:290674",
+                                    "v": "1700735914544624:290674"
+                                },
+                                {
+                                    "k": "1700735923668659:293693",
+                                    "v": "1700735923668659:293693"
+                                },
+                                {
+                                    "k": "1700959512462098:2371722",
+                                    "v": "1700959512462098:2371722"
+                                },
+                                {
+                                    "k": "1701182016979631:2841422",
+                                    "v": "1701182016979631:2841422"
+                                },
+                                {
+                                    "k": "1701184265619948:329563",
+                                    "v": "1701184265619948:329563"
                                 }
                             ]
                         }

@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700686971568512:1440009",
             "fileId": "1700686971564925:1440007",
-            "publicId": "1701358385059032:20203",
+            "publicId": "1701444132073058:20204",
             "expected_hash": "6fed8429db0e4887c3982f39ae227c0e"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701358385059032:20203": {
+    "1701444132073058:20204": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/UI/convertHealthToUI.js",

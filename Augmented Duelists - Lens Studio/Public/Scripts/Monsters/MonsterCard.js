@@ -2,7 +2,7 @@
 
 //@input string MonsterName = "Default";
 //@input float MaxHealth = 10f;
-//@input SceneObject MonsterMarker;
+//input int ID = 0;
 //@input Component.Script Attack1
 //@input Component.Script Attack2
 //@input Component.Script Attack3
@@ -12,6 +12,8 @@
 //print(script.Attack1.api.GetAttackName());
 //print(script.Attack2.api.GetAttackDamage());
 
+
+//print(script.MonsterName);
 
 script.api.GetAttack = function (Num) {
 
@@ -28,6 +30,6 @@ script.api.GetAttack = function (Num) {
 }
 
 
-var A = script.api.GetAttack(1);
+//var A = script.api.GetAttack(1);
 
-print(A.api.GetAttackName());
+//print(A.api.GetAttackName());

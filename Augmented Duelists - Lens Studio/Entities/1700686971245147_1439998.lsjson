@@ -14,7 +14,7 @@
             "uid": "1700686971488714:1439999",
             "fileId": "1700686971243056:1439997",
             "originalId": "1700686971490318:1440004",
-            "publicId": "1701358385412753:20256",
+            "publicId": "1701444132467654:20257",
             "expected_hash": "41d4752847d0653fa65a371678480c4b",
             "additional": {
                 "originHash": "cc169c6ffbcf92368452c02a2cb88ef0"
@@ -68,7 +68,7 @@
             "path": "Files/File_1700686972492304_1440731.pvr"
         }
     },
-    "1701358385412753:20256": {
+    "1701444132467654:20257": {
         "IResourceController": {
             "public": {
                 "path": "Assets/UI/PlayerCircle.png",

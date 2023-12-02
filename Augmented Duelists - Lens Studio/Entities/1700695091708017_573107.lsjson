@@ -1,22 +1,23 @@
 {
     "1700695091708017:573107": {
         "IResourceController": {
-            "name": "MonsterPrefabs",
+            "name": "Prefabs",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701358385423101:20258",
+            "publicId": "1701444132482247:20259",
             "resources": [
                 "1700727944605558:231985",
-                "1700735447354653:125747"
+                "1700735447354653:125747",
+                "1701459998661549:3189955"
             ]
         }
     },
-    "1701358385423101:20258": {
+    "1701444132482247:20259": {
         "IResourceController": {
             "public": {
-                "path": "Assets/MonsterPrefabs"
+                "path": "Assets/Prefabs"
             }
         }
     }

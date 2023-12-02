@@ -14,6 +14,7 @@
 
 // Reference to the image tracker
 //var imageTracker = Scene.root.find('SnapchatMarker-MonsterTest');
+
 var markerTracking = script.getSceneObject().getComponent("Component.MarkerTrackingComponent");
 //var textObject = script.getSceneObject().getChild().0;
 // Subscribe to the image tracker's onObjectTracked event

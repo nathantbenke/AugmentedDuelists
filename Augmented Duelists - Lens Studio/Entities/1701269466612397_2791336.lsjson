@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701269466612419:2791337",
             "fileId": "1701269466607077:2791335",
-            "publicId": "1701358385960634:20332",
+            "publicId": "1701444132902083:20333",
             "expected_hash": "85d339d916479f729938d2911b85bf1f"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701358385960634:20332": {
+    "1701444132902083:20333": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Fonts/Lato-Bold.ttf",
