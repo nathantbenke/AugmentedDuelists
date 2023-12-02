@@ -14,7 +14,7 @@
             "uid": "1701269468095738:2791667",
             "fileId": "1701269468090878:2791665",
             "originalId": "1701269468096354:2791672",
-            "publicId": "1701444133016823:20356",
+            "publicId": "1701531659251563:20809",
             "expected_hash": "0827ceca64d27d592e1b24856365e7f8",
             "additional": {
                 "originHash": "1db61ce5923b56e8f4a845650b468eef"
@@ -68,7 +68,7 @@
             "path": "Files/File_1701269482096703_2800989.pvr"
         }
     },
-    "1701444133016823:20356": {
+    "1701531659251563:20809": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Segmented Bar/Design 1/Hearth.png",

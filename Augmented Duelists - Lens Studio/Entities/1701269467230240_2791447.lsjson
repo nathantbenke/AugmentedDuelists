@@ -14,7 +14,7 @@
             "uid": "1701269467230250:2791448",
             "fileId": "1701269467227498:2791446",
             "originalId": "1701269467274556:2791454",
-            "publicId": "1701444132858018:20326",
+            "publicId": "1701531659163470:20779",
             "expected_hash": "be917b6221599ab136249b07f12d7ad6"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701269467274556_2791454.lsmat"
         }
     },
-    "1701444132858018:20326": {
+    "1701531659163470:20779": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Materials/Frame Materials/Frame Material 2 [EDIT ME].lsmat",

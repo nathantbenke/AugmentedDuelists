@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701444132914465:20334",
+            "publicId": "1701531659192002:20787",
             "resources": [
                 "1701269465997532:2791152",
                 "1701269466077378:2791175"
             ]
         }
     },
-    "1701444132914465:20334": {
+    "1701531659192002:20787": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Textures"

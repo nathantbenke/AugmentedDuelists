@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701269462464319:2790565",
             "fileId": "1701269462454743:2790563",
-            "publicId": "1701444132777073:20315",
+            "publicId": "1701531659103139:20768",
             "expected_hash": "6c7932e0df736f27b30f10f3f9e17b49"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701444132777073:20315": {
+    "1701531659103139:20768": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Scripts/Behavior.js",

@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700729150695101:708651",
             "fileId": "1700729150693124:708649",
-            "publicId": "1701444132095689:20205",
+            "publicId": "1701531658485504:20655",
             "expected_hash": "251a44b7f2285831f36eeaf20b772543"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701444132095689:20205": {
+    "1701531658485504:20655": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/UI/ImageTracking.js",

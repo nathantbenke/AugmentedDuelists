@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701455582399978:2165423",
             "fileId": "1701455582392380:2165421",
-            "publicId": "1701455582453057:2165438",
+            "publicId": "1701531658531906:20663",
             "expected_hash": "c3cf6a4a1383f40c75dbae1cba14133c"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701455582453057:2165438": {
+    "1701531658531906:20663": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/TestUpdate.js",

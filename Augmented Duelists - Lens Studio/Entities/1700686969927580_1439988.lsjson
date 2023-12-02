@@ -14,7 +14,7 @@
             "uid": "1700686970058034:1439989",
             "fileId": "1700686969922391:1439987",
             "originalId": "1700686970060356:1439994",
-            "publicId": "1701444132457737:20256",
+            "publicId": "1701531658777371:20708",
             "expected_hash": "5d8bbb2e6587a1989d1d457844cc8dc3",
             "additional": {
                 "originHash": "32222989d19e2eeed2994468645148a0"
@@ -68,7 +68,7 @@
             "path": "Files/File_1700686971891383_1440489.pvr"
         }
     },
-    "1701444132457737:20256": {
+    "1701531658777371:20708": {
         "IResourceController": {
             "public": {
                 "path": "Assets/UI/emptyHealthbar.png",

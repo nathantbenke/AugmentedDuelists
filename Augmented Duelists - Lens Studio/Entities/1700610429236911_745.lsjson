@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429236927:746",
             "fileId": "1700610429234590:744",
-            "publicId": "1701444132235699:20221",
+            "publicId": "1701531658598333:20673",
             "expected_hash": "0d9bdd5aeb9f1a6ff474b5eeeea2c067"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701444132235699:20221": {
+    "1701531658598333:20673": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Spike_wheel_002.blend",
