@@ -14,7 +14,7 @@
             "uid": "1700728046104511:274833",
             "fileId": "1700728046097676:274831",
             "originalId": "1700728046104917:274838",
-            "publicId": "1701444132538218:20276",
+            "publicId": "1701547793981758:20759",
             "expected_hash": "56ade7d226a94e652c24563b800a09f2"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1700728046104917_274838.png"
         }
     },
-    "1701444132538218:20276": {
+    "1701547793981758:20759": {
         "IResourceController": {
             "public": {
                 "path": "MonsterMarker_SpikeyWheel.png",
