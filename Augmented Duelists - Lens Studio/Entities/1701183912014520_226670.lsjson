@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701183912016471:226671",
             "fileId": "1701183912007861:226669",
-            "publicId": "1701358385063050:20205",
+            "publicId": "1701444132102621:20206",
             "expected_hash": "d0dbd7a8646caf514427026b79aa2400"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701358385063050:20205": {
+    "1701444132102621:20206": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/UI/UIController.js",

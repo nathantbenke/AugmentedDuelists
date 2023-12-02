@@ -1,12 +1,12 @@
 {
     "1700689554105981:6592": {
         "IResourceController": {
-            "name": "Materials00",
+            "name": "Materials000",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701358385194986:20222",
+            "publicId": "1701444132254461:20223",
             "resources": [
                 "1700689554107859:6594",
                 "1700689554535124:6639",
@@ -15,10 +15,10 @@
             ]
         }
     },
-    "1701358385194986:20222": {
+    "1701444132254461:20223": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/SpikeyShell_Animated/Materials00"
+                "path": "../AdditionalFiles/Assets/Character Models/SpikeyShell_Animated/Materials000"
             }
         }
     }
