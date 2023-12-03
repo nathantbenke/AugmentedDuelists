@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429174085:714",
             "fileId": "1700610429171295:712",
-            "publicId": "1701444132150990:20217",
+            "publicId": "1701547793648569:20699",
             "expected_hash": "a192b85d7f52c4276cc8b0054c78b7ad"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701444132150990:20217": {
+    "1701547793648569:20699": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Cloud_001 2.blend1",

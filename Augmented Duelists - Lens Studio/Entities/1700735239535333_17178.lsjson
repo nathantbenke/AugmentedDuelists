@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700735239535378:17179",
             "fileId": "1700735239530112:17177",
-            "publicId": "1701444132121064:20211",
+            "publicId": "1701547793591294:20690",
             "expected_hash": "2cc204f685d78332cf25b38eef663883"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701444132121064:20211": {
+    "1701547793591294:20690": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/Monsters/MonsterInfo.js",

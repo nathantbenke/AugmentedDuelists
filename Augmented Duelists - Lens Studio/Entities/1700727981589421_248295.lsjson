@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727981604294:248302",
             "fileId": "1700727981587477:248294",
-            "publicId": "1701444132651606:20296",
+            "publicId": "1701547794079811:20779",
             "expected_hash": "0aeab970bd8f9f00f392b9accf9231b4",
             "additional": {
                 "info": {
@@ -114,7 +114,7 @@
             "path": "Files/File_1700727981611825_248315.mesh"
         }
     },
-    "1701444132651606:20296": {
+    "1701547794079811:20779": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Meshes/monster_teeth_bt.mesh",
