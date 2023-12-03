@@ -14,7 +14,7 @@
             "uid": "1700735239519193:17169",
             "fileId": "1700735239515173:17167",
             "publicId": "1701547793574819:20687",
-            "expected_hash": "fa00c9f9be203f685ec44369dc42752d"
+            "expected_hash": "29cde1f3f0a3f79eb974a7dced5fb9fa"
         },
         "IResourceManager": {
             "uid": "1700735239519193:17169",
@@ -31,7 +31,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/Game/Player.js",
-                "hash": "fa00c9f9be203f685ec44369dc42752d"
+                "hash": "29cde1f3f0a3f79eb974a7dced5fb9fa"
             }
         }
     }

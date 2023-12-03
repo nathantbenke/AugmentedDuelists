@@ -1,7 +1,7 @@
 // -----JS CODE-----
 
 //@input string MonsterName = "Default";
-//@input float MaxHealth = 10f;
+//@input float MaxHealth = 200f;
 //@input SceneObject MonsterMarker;
 //@input Component.Script Attack1
 //@input Component.Script Attack2
@@ -11,9 +11,11 @@
 //print(script.Attack1.Name);
 //print(script.Attack1.api.GetAttackName());
 //print(script.Attack2.api.GetAttackDamage());
-
-
 //print(script.MonsterName);
+
+//Activates monster in playspace
+script.MonsterMarker.enabled = true;
+
 
 script.api.GetAttack = function (Num) {
 

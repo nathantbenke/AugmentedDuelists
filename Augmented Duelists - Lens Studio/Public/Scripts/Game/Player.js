@@ -26,6 +26,61 @@ var CurrentMonster = 0;
 
 var HasMonster = false;
 
+
+var multiplierVal = 1;  //Value of multiplier
+var multiplierNum = 1;  //Number of times multiplier attack is called
+var negMultiplier = 0;
+
+switch(multiplierNum)
+{
+//Positive Multiplier
+    case 1:
+        multiplierVal = 1;
+        break;
+    case 2:
+        multiplierVal = 1.1;
+        break;
+    case 3:
+        multiplierVal = 1.25;
+        break;
+    case 4:
+        multiplierVal = 1.5;
+        break;
+    case 5: 
+        multiplierVal = 2;
+        break;
+    
+//Negative Multiplier (needs to be added to enemy multiplier)
+    case 0:
+        negMultiplier = -0.1;
+        break;
+    case -1:
+        negMultiplier = -0.2;
+        break;
+    case -2:
+        negMultiplier = -0.3;
+        break;
+    case -3:
+        negMultiplier = -0.4;
+        break;
+    case -4:
+        negMultiplier = -0.5;
+        break;
+    
+    default:
+        if (multiplierNum > 5) 
+        {
+            multiplierVal = 2;
+        } else if (multiplierNum < -4)
+        {
+            negMultiplier = -0.5;
+        } else {
+            multiplierVal = 1;        
+        }
+    break;
+}
+
+
 for (var i = 0; i < 6; ++i) {
     script.MonsterHealth.push(0);
 }
@@ -45,7 +100,7 @@ script.api.SelectAttack = function (num) {
 }
 
 script.api.TakeDamage = function (D) {
-    script.Health -= D;
+    script.Health -= D * multiplierVal;
     script.MonsterHealth[script.CurrentMonster] = script.Health;
     if (script.Health <= 0) {
         //play death animation

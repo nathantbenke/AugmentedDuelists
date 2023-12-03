@@ -14,7 +14,7 @@
             "uid": "1700735239535378:17179",
             "fileId": "1700735239530112:17177",
             "publicId": "1701547793591294:20690",
-            "expected_hash": "2cc204f685d78332cf25b38eef663883"
+            "expected_hash": "ddb351593d95c22f3221d3eed8b101d2"
         },
         "IResourceManager": {
             "uid": "1700735239535378:17179",
@@ -31,7 +31,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/Monsters/MonsterInfo.js",
-                "hash": "2cc204f685d78332cf25b38eef663883"
+                "hash": "ddb351593d95c22f3221d3eed8b101d2"
             }
         }
     }
