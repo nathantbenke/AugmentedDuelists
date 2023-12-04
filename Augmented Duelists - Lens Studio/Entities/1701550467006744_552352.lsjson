@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701550467006920:552353",
+            "publicId": "1701683856231805:40931",
             "resources": [
                 "1701550513549206:567857",
                 "1701550561931604:582981",
@@ -17,7 +17,7 @@
             ]
         }
     },
-    "1701550467006920:552353": {
+    "1701683856231805:40931": {
         "IResourceController": {
             "public": {
                 "path": "MonsterCard Markers"

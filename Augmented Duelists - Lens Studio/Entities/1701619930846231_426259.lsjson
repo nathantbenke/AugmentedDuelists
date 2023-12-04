@@ -1,0 +1,22 @@
+{
+    "1701619930846231:426259": {
+        "IResourceController": {
+            "name": "EverardAnimationModel",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701683856039414:40756",
+            "resources": [
+                "1701695934718856:3259380"
+            ]
+        }
+    },
+    "1701683856039414:40756": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/EverardAnimationModel"
+            }
+        }
+    }
+}

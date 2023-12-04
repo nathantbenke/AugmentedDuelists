@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429406739:846",
             "fileId": "1700610429404992:844",
-            "publicId": "1701547793844946:20730",
+            "publicId": "1701683856099061:40810",
             "expected_hash": "4be35ebb2abd760332fa23f8f5607c12"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701547793844946:20730": {
+    "1701683856099061:40810": {
         "IResourceController": {
             "public": {
                 "path": "Assets/PlaySpace/Affinity Files/PlayspaceTemplate_002.afpub",

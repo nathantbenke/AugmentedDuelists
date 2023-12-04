@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700730220985014:1124072",
             "fileId": "1700730220983034:1124070",
-            "publicId": "1701547794172570:20791",
+            "publicId": "1701683856180455:40879",
             "expected_hash": "7e9ec302baf166f159cfaaeddac0df84"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701547794172570:20791": {
+    "1701683856180455:40879": {
         "IResourceController": {
             "public": {
                 "path": "SceneManagerScript.js",

@@ -1,0 +1,61 @@
+{
+    "1701704043353328:6103720": {
+        "IResourceController": {
+            "name": "SheldonMesh",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1701704045594544:6105311",
+            "publicId": "1701704045628644:6105330",
+            "expected_hash": "f0d7270a8c1c4719d7edfa84aaba2ad9",
+            "resources": [
+                "1701704044644028:6104099",
+                "1701704044712913:6104177",
+                "1701704044715232:6104321",
+                "1701704045566883:6105037"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1701704044717051:6104324"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1701704044926060:6104441"
+                    },
+                    {
+                        "k": "Material 3",
+                        "v": "1701704045138158:6104562"
+                    },
+                    {
+                        "k": "Material 4",
+                        "v": "1701704045346144:6104677"
+                    }
+                ]
+            }
+        }
+    },
+    "1701704045594544:6105311": {
+        "IFileManager": {
+            "path": "Files/File_1701704045594544_6105311.glb"
+        }
+    },
+    "1701704045628644:6105330": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SheldonAnimationsModel/SheldonMesh.glb",
+                "hash": "f0d7270a8c1c4719d7edfa84aaba2ad9"
+            }
+        }
+    }
+}

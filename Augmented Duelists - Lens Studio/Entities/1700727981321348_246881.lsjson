@@ -9,7 +9,7 @@
             "uid": "1700727981321303:246878",
             "fileId": "1700727981368827:246907",
             "originalId": "1700728625426421:496469",
-            "publicId": "1701547794114320:20786",
+            "publicId": "1701683856171909:40874",
             "expected_hash": "324d2b562f0aa34ae6cb756e73490221"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1700728625426421_496469.oprfb"
         }
     },
-    "1701547794114320:20786": {
+    "1701683856171909:40874": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/MarkTheMonster__PLACE_IN_OBJECTS_PANEL.oprfb",

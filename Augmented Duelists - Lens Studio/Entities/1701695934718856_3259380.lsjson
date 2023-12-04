@@ -1,0 +1,61 @@
+{
+    "1701695934718856:3259380": {
+        "IResourceController": {
+            "name": "Everard_CombinedAnim 2",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1701695937395923:3261579",
+            "publicId": "1701695937429234:3261600",
+            "expected_hash": "477beb545b96e5c16f6652f04d1d77b1",
+            "resources": [
+                "1701695936411337:3259898",
+                "1701695936497581:3259994",
+                "1701695936502070:3260261",
+                "1701695937362894:3261126"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Arms",
+                        "v": "1701695936719704:3260389"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1701695936503858:3260264"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1701695936925709:3260504"
+                    },
+                    {
+                        "k": "Material 3",
+                        "v": "1701695937137856:3260621"
+                    }
+                ]
+            }
+        }
+    },
+    "1701695937395923:3261579": {
+        "IFileManager": {
+            "path": "Files/File_1701695937395923_3261579.glb"
+        }
+    },
+    "1701695937429234:3261600": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/EverardAnimationModel/Everard_CombinedAnim 2.glb",
+                "hash": "477beb545b96e5c16f6652f04d1d77b1"
+            }
+        }
+    }
+}

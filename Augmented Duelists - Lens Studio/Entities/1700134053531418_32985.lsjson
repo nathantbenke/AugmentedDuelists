@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701547793536966:20679",
+            "publicId": "1701683855981374:40714",
             "resources": [
                 "1700735239494127:17150",
                 "1701445277718610:316463"
             ]
         }
     },
-    "1701547793536966:20679": {
+    "1701683855981374:40714": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/Attack"

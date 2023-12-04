@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429210748:730",
             "fileId": "1700610429208339:728",
-            "publicId": "1701547793666164:20701",
+            "publicId": "1701699278898429:4793262",
             "expected_hash": "5560abae4d841961e93f123165b7a7e8"
         },
         "IResourceManager": {
@@ -22,10 +22,10 @@
             "flags": 1
         }
     },
-    "1701547793666164:20701": {
+    "1701699278898429:4793262": {
         "IResourceController": {
             "public": {
-                "path": "Assets/Character Models/SpikeyShell_001.blend",
+                "path": "Assets/Character Models/Delete if not needed/SpikeyShell_001.blend",
                 "hash": "5560abae4d841961e93f123165b7a7e8"
             }
         }

@@ -1,0 +1,22 @@
+{
+    "1701621234832124:764371": {
+        "IResourceController": {
+            "name": "SheldonAnimationsModel",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701683856062613:40775",
+            "resources": [
+                "1701704043353328:6103720"
+            ]
+        }
+    },
+    "1701683856062613:40775": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SheldonAnimationsModel"
+            }
+        }
+    }
+}

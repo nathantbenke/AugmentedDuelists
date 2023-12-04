@@ -9,7 +9,7 @@
             "uid": "1700735447352137:125714",
             "fileId": "1700735447627168:125831",
             "originalId": "1700735516624866:156512",
-            "publicId": "1701547793903215:20743",
+            "publicId": "1701683856116713:40824",
             "expected_hash": "25af625809c12500def513ffc4f95381"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1700735516624866_156512.oprfb"
         }
     },
-    "1701547793903215:20743": {
+    "1701683856116713:40824": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Prefabs/TestMonster2.oprfb",

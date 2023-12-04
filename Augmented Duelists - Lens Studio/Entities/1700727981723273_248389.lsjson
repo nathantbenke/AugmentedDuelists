@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727981736565:248396",
             "fileId": "1700727981720513:248388",
-            "publicId": "1701547794100148:20782",
+            "publicId": "1701683856167088:40870",
             "expected_hash": "4cb3d6c2f0146a7a781e52444f991710",
             "additional": {
                 "info": {
@@ -114,7 +114,7 @@
             "path": "Files/File_1700727981753819_248407.mesh"
         }
     },
-    "1701547794100148:20782": {
+    "1701683856167088:40870": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Meshes/monster_body.mesh",

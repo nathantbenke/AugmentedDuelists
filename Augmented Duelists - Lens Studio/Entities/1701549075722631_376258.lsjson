@@ -14,7 +14,7 @@
             "uid": "1701549075722636:376259",
             "fileId": "1701549075721397:376257",
             "originalId": "1701549075773292:376263",
-            "publicId": "1701549075949062:376270",
+            "publicId": "1701683856243162:40940",
             "expected_hash": "d9f476183f34b7013d4c658c014833c3"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1701549075773292_376263.lsmat"
         }
     },
-    "1701549075949062:376270": {
+    "1701683856243162:40940": {
         "IResourceController": {
             "public": {
                 "path": "Snapcode_Resources/Black.lsmat",
-                "hash": "05d9854f08e5b6ee6331a7fa75a8a7cb"
+                "hash": "b22a3177f116a18a1ba4749a89201d67"
             }
         }
     }

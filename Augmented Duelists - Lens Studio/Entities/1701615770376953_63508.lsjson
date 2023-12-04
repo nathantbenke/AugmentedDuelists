@@ -1,0 +1,38 @@
+{
+    "1701615770374434:63507": {
+        "IFileManager": {
+            "path": "Files/File_1701615770374434_63507.js"
+        }
+    },
+    "1701615770376953:63508": {
+        "IResourceController": {
+            "name": "AnimationSwap",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701615770376976:63509",
+            "fileId": "1701615770374434:63507",
+            "publicId": "1701683856326759:40973",
+            "expected_hash": "59361291686fd7cebf3981836238abbb"
+        },
+        "IResourceManager": {
+            "uid": "1701615770376976:63509",
+            "name": "Files/File_1701615770374434_63507.js",
+            "flags": 1
+        }
+    },
+    "1701615770376976:63509": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1701683856326759:40973": {
+        "IResourceController": {
+            "public": {
+                "path": "AnimationSwap.js",
+                "hash": "59361291686fd7cebf3981836238abbb"
+            }
+        }
+    }
+}

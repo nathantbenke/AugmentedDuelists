@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701547794067072:20774",
+            "publicId": "1701683856158980:40862",
             "resources": [
                 "1700727981533322:247946",
                 "1700727981560293:247961",
@@ -15,7 +15,7 @@
             ]
         }
     },
-    "1701547794067072:20774": {
+    "1701683856158980:40862": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources"

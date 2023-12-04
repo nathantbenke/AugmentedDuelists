@@ -1,0 +1,25 @@
+{
+    "1701695936502070:3260261": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701695937430632:3261601",
+            "resources": [
+                "1701695936503855:3260263",
+                "1701695936719700:3260388",
+                "1701695936925705:3260503",
+                "1701695937137851:3260620"
+            ]
+        }
+    },
+    "1701695937430632:3261601": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/EverardAnimationModels/Everard_CombinedAnim 2/Materials"
+            }
+        }
+    }
+}

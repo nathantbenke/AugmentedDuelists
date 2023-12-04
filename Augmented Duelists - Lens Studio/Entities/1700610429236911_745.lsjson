@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429236927:746",
             "fileId": "1700610429234590:744",
-            "publicId": "1701547793679607:20703",
+            "publicId": "1701699276104469:4776327",
             "expected_hash": "0d9bdd5aeb9f1a6ff474b5eeeea2c067"
         },
         "IResourceManager": {
@@ -22,10 +22,10 @@
             "flags": 1
         }
     },
-    "1701547793679607:20703": {
+    "1701699276104469:4776327": {
         "IResourceController": {
             "public": {
-                "path": "Assets/Character Models/Spike_wheel_002.blend",
+                "path": "Assets/Character Models/Delete if not needed/Spike_wheel_002.blend",
                 "hash": "0d9bdd5aeb9f1a6ff474b5eeeea2c067"
             }
         }

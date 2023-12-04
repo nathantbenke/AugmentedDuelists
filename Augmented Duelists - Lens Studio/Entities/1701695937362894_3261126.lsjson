@@ -1,0 +1,30 @@
+{
+    "1701695937362894:3261126": {
+        "IResourceController": {
+            "name": "Everard_CombinedAnim",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701695937362648:3260825",
+            "fileId": "1701695937381463:3261578",
+            "originalId": "1701704569097782:6714382",
+            "expected_hash": "1a68d6b5d188a44061797ccdbb9d3a53"
+        },
+        "IResourceManager": {
+            "uid": "1701695937362648:3260825",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1701695937381463:3261578": {
+        "IFileManager": {
+            "path": "Files/File_1701695937381463_3261578.oprfb"
+        }
+    },
+    "1701704569097782:6714382": {
+        "IFileManager": {
+            "path": "Files/File_1701704569097782_6714382.oprfb"
+        }
+    }
+}

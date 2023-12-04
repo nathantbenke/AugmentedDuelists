@@ -1,0 +1,17 @@
+{
+    "1701695936501319:3260218": {
+        "IResourceController": {
+            "name": "LeftArm_ 4",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1701695936501319:3260217"
+        },
+        "IResourceManager": {
+            "uid": "1701695936501319:3260217",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

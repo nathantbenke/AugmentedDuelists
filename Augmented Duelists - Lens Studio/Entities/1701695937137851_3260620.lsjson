@@ -1,0 +1,39 @@
+{
+    "1701695937136219:3260617": {
+        "IFileManager": {
+            "path": "Files/File_1701695937136219_3260617"
+        }
+    },
+    "1701695937137851:3260620": {
+        "IResourceController": {
+            "name": "Material 3",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701695937137856:3260621",
+            "fileId": "1701695937136219:3260617",
+            "originalId": "1701695937149150:3260631",
+            "publicId": "1701695937436248:3261607",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1701695937137856:3260621",
+            "name": "Files/File_1701695937136219_3260617",
+            "flags": 1
+        }
+    },
+    "1701695937149150:3260631": {
+        "IFileManager": {
+            "path": "Files/File_1701695937149150_3260631.lsmat"
+        }
+    },
+    "1701695937436248:3261607": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/EverardAnimationModels/Everard_CombinedAnim 2/Materials/Material 3.lsmat",
+                "hash": "ab6bcf78635e900c9ffade26d1817b68"
+            }
+        }
+    }
+}

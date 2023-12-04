@@ -1,0 +1,23 @@
+{
+    "1701618983268022:363899": {
+        "IResourceController": {
+            "name": "Prefabs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701683856036867:40753",
+            "resources": [
+                "1701618902187468:344297",
+                "1701619018462690:375139"
+            ]
+        }
+    },
+    "1701683856036867:40753": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Delete if not needed/Prefabs"
+            }
+        }
+    }
+}

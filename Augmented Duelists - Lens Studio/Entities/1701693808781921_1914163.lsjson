@@ -1,0 +1,44 @@
+{
+    "1701693808778730:1914162": {
+        "IFileManager": {
+            "path": "Files/File_1701693808778730_1914162"
+        }
+    },
+    "1701693808781921:1914163": {
+        "IResourceController": {
+            "name": "Float Loop",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701693808781942:1914164",
+            "fileId": "1701693808778730:1914162",
+            "originalId": "1701693808782187:1914168",
+            "publicId": "1701693808785568:1914172",
+            "expected_hash": "686814e4489daa0f56593a4ff6b7eeb7"
+        },
+        "IResourceManager": {
+            "uid": "1701693808781942:1914164",
+            "name": "Files/File_1701693808778730_1914162",
+            "flags": 1
+        }
+    },
+    "1701693808781942:1914164": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1701693808782187:1914168": {
+        "IFileManager": {
+            "path": "Files/File_1701693808782187_1914168.lsscript"
+        }
+    },
+    "1701693808785568:1914172": {
+        "IResourceController": {
+            "public": {
+                "path": "Float Loop.lsscript",
+                "hash": "d38d022970f6135cc986d4d9402e23ae"
+            }
+        }
+    }
+}

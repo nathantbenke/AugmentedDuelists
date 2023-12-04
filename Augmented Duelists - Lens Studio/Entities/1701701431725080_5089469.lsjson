@@ -1,0 +1,61 @@
+{
+    "1701701431725080:5089469": {
+        "IResourceController": {
+            "name": "BrambleMesh",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1701701433662176:5090774",
+            "publicId": "1701701433694467:5090787",
+            "expected_hash": "cc793da0c947913d7822da7e664d4c7b",
+            "resources": [
+                "1701701432691302:5089557",
+                "1701701432774144:5089631",
+                "1701701432777380:5089835",
+                "1701701433633681:5090419"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Brown",
+                        "v": "1701701433415954:5090039"
+                    },
+                    {
+                        "k": "Grey",
+                        "v": "1701701432779336:5089838"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1701701432991014:5089905"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1701701433204074:5089972"
+                    }
+                ]
+            }
+        }
+    },
+    "1701701433662176:5090774": {
+        "IFileManager": {
+            "path": "Files/File_1701701433662176_5090774.glb"
+        }
+    },
+    "1701701433694467:5090787": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/BrambleAnimationsModel/BrambleMesh.glb",
+                "hash": "cc793da0c947913d7822da7e664d4c7b"
+            }
+        }
+    }
+}

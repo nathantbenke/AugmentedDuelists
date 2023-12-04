@@ -1,0 +1,39 @@
+{
+    "1701619018462690:375139": {
+        "IResourceController": {
+            "name": "Bramble_Prefab",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701619018462349:375029",
+            "fileId": "1701619018477328:375242",
+            "originalId": "1701619049164132:394200",
+            "publicId": "1701683856039105:40755",
+            "expected_hash": "9cf96b9a4ddbea6f37f256fd3b1d3edb"
+        },
+        "IResourceManager": {
+            "uid": "1701619018462349:375029",
+            "name": "P1_BrambleMesh",
+            "flags": 0
+        }
+    },
+    "1701619018477328:375242": {
+        "IFileManager": {
+            "path": "Files/File_1701619018477328_375242.oprfb"
+        }
+    },
+    "1701619049164132:394200": {
+        "IFileManager": {
+            "path": "Files/File_1701619049164132_394200.oprfb"
+        }
+    },
+    "1701683856039105:40755": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Delete if not needed/Prefabs/Bramble_Prefab.oprfb",
+                "hash": "e55b71817832fdf367fac6708213e9f0"
+            }
+        }
+    }
+}

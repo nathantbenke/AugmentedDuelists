@@ -1,0 +1,39 @@
+{
+    "1701701433414411:5090037": {
+        "IFileManager": {
+            "path": "Files/File_1701701433414411_5090037"
+        }
+    },
+    "1701701433415950:5090038": {
+        "IResourceController": {
+            "name": "Brown",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701701433415954:5090039",
+            "fileId": "1701701433414411:5090037",
+            "originalId": "1701701433427284:5090043",
+            "publicId": "1701701433700406:5090792",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1701701433415954:5090039",
+            "name": "Files/File_1701701433414411_5090037",
+            "flags": 1
+        }
+    },
+    "1701701433427284:5090043": {
+        "IFileManager": {
+            "path": "Files/File_1701701433427284_5090043.lsmat"
+        }
+    },
+    "1701701433700406:5090792": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/BrambleAnimationsModel/BrambleMesh/Materials/Brown.lsmat",
+                "hash": "2929b590733b4dd7d2294fab76751cbb"
+            }
+        }
+    }
+}

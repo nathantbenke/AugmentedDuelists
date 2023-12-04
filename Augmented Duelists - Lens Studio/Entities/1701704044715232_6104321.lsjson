@@ -1,0 +1,25 @@
+{
+    "1701704044715232:6104321": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701704045629580:6105331",
+            "resources": [
+                "1701704044717048:6104323",
+                "1701704044926056:6104440",
+                "1701704045138152:6104561",
+                "1701704045346139:6104676"
+            ]
+        }
+    },
+    "1701704045629580:6105331": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/SheldonAnimationsModel/SheldonMesh/Materials"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1701701433202471:5089970": {
+        "IFileManager": {
+            "path": "Files/File_1701701433202471_5089970"
+        }
+    },
+    "1701701433204069:5089971": {
+        "IResourceController": {
+            "name": "Material 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701701433204074:5089972",
+            "fileId": "1701701433202471:5089970",
+            "originalId": "1701701433216010:5089976",
+            "publicId": "1701701433699235:5090791",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1701701433204074:5089972",
+            "name": "Files/File_1701701433202471_5089970",
+            "flags": 1
+        }
+    },
+    "1701701433216010:5089976": {
+        "IFileManager": {
+            "path": "Files/File_1701701433216010_5089976.lsmat"
+        }
+    },
+    "1701701433699235:5090791": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/Character Models/BrambleAnimationsModel/BrambleMesh/Materials/Material 2.lsmat",
+                "hash": "4d32647e3c93357659f9d82a944a3c99"
+            }
+        }
+    }
+}

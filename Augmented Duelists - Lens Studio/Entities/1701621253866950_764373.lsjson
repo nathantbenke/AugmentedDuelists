@@ -1,0 +1,22 @@
+{
+    "1701621253866950:764373": {
+        "IResourceController": {
+            "name": "BrambleAnimationsModel",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701683856063254:40776",
+            "resources": [
+                "1701701431725080:5089469"
+            ]
+        }
+    },
+    "1701683856063254:40776": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/BrambleAnimationsModel"
+            }
+        }
+    }
+}
