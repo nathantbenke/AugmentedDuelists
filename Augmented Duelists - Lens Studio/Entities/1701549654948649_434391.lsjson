@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701549654948693:434392",
             "fileId": "1701549654943128:434390",
-            "publicId": "1701549654959799:434397",
+            "publicId": "1701730514977097:25892",
             "expected_hash": "75d8074f17907ed1d39f9acfee68a0b1"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701549654959799:434397": {
+    "1701730514977097:25892": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/Game/PlayspaceInitialState.js",

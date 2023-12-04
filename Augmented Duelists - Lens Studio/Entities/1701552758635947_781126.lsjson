@@ -1,12 +1,4 @@
 {
-    "1701552758632684:781124": {
-        "IResourceController": {
-            "public": {
-                "path": "ActionMarkersPNG/Affinity File/Attack2Marker.afpub",
-                "hash": "085b12cb30ee0ca632f20a7b818e0548"
-            }
-        }
-    },
     "1701552758633196:781125": {
         "IFileManager": {
             "path": "Files/File_1701552758633196_781125.afpub"
@@ -21,13 +13,21 @@
             "hidden": false,
             "uid": "1701552758635964:781127",
             "fileId": "1701552758633196:781125",
-            "publicId": "1701552758632684:781124",
+            "publicId": "1701730516208235:26078",
             "expected_hash": "085b12cb30ee0ca632f20a7b818e0548"
         },
         "IResourceManager": {
             "uid": "1701552758635964:781127",
             "name": "Files/File_1701552758633196_781125.afpub",
             "flags": 1
+        }
+    },
+    "1701730516208235:26078": {
+        "IResourceController": {
+            "public": {
+                "path": "ActionMarkersPNG/Affinity File/Attack2Marker.afpub",
+                "hash": "085b12cb30ee0ca632f20a7b818e0548"
+            }
         }
     }
 }

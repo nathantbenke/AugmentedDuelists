@@ -258,7 +258,7 @@
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
-            "input_stream_type": "Video",
+            "input_stream_type": "InteractiveEnvironment",
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Body.jpg",
                 "back_preview_is_favorite": "false",
@@ -276,6 +276,18 @@
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "front_preview_is_favorite": "false"
+            },
+            "ie_saved_device_transformation": {
+                "eulerRotation": {
+                    "x": "-32.5393219",
+                    "y": "19.8399963",
+                    "z": "0"
+                },
+                "translation": {
+                    "x": "-39.5325127",
+                    "y": "0",
+                    "z": "-228.627274"
+                }
             }
         },
         "ResourceUiComponent": "",

@@ -14,7 +14,7 @@
             "uid": "1701550561935155:582982",
             "fileId": "1701550561928539:582980",
             "originalId": "1701550561935466:582988",
-            "publicId": "1701550561938870:582990",
+            "publicId": "1701730516066303:26058",
             "expected_hash": "0de1e6b745d481a0943ea0f099143ac0"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701550561935466_582988.png"
         }
     },
-    "1701550561938870:582990": {
+    "1701730516066303:26058": {
         "IResourceController": {
             "public": {
                 "path": "MonsterCard Markers/MonsterCard_Bramble_P2.png",

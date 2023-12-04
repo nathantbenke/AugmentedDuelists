@@ -14,7 +14,7 @@
             "uid": "1701552925494028:865720",
             "fileId": "1701552925489923:865718",
             "originalId": "1701552925494269:865725",
-            "publicId": "1701552925510362:865731",
+            "publicId": "1701730516174773:26072",
             "expected_hash": "021270631ad5b73a893c388568934ebd"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701552925494269_865725.png"
         }
     },
-    "1701552925510362:865731": {
+    "1701730516174773:26072": {
         "IResourceController": {
             "public": {
                 "path": "ActionCard Markers/P2_AttackB.png",
