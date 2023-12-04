@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701548993837474:364384",
             "fileId": "1701548993810439:364381",
-            "publicId": "1701548993850280:364396",
+            "publicId": "1701730516103163:26064",
             "expected_hash": "621da74e06cc402b895f39376927a9d1",
             "additional": {
                 "info": {
@@ -114,7 +114,7 @@
             "path": "Files/File_1701548993845288_364395.mesh"
         }
     },
-    "1701548993850280:364396": {
+    "1701730516103163:26064": {
         "IResourceController": {
             "public": {
                 "path": "Snapcode_Resources/Box.mesh",

@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701269465877805:2791110",
             "fileId": "1701269465872056:2791108",
-            "publicId": "1701547794304616:20815",
+            "publicId": "1701730515903814:26028",
             "expected_hash": "2d36b1a925432bae7f3c53a340868c6e"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701547794304616:20815": {
+    "1701730515903814:26028": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Fonts/Lato-Regular.ttf",
