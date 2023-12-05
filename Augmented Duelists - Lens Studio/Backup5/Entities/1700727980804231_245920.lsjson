@@ -1,0 +1,22 @@
+{
+    "1700727980804231:245920": {
+        "IResourceController": {
+            "name": "ExtendedMarkerTracking",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701784407385537:53955",
+            "resources": [
+                "1700727980798541:245909"
+            ]
+        }
+    },
+    "1701784407385537:53955": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/ExtendedMarkerTracking"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1700610429411488:852": {
+        "IResourceController": {
+            "name": "PNG",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701784407136259:53907",
+            "resources": [
+                "1700610429553175:855"
+            ]
+        }
+    },
+    "1701784407136259:53907": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/PlaySpace/PNG"
+            }
+        }
+    }
+}
