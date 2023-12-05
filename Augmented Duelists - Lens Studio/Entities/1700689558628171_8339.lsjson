@@ -14,7 +14,7 @@
             "uid": "1700689558628176:8340",
             "fileId": "1700689558626789:8338",
             "originalId": "1700689558650445:8344",
-            "publicId": "1701547793765216:20715",
+            "publicId": "1701730515192950:25919",
             "expected_hash": "d9f476183f34b7013d4c658c014833c3"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1700689558650445_8344.lsmat"
         }
     },
-    "1701547793765216:20715": {
+    "1701730515192950:25919": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/Spike_wheel_Animated/Materials0000/Material 2.lsmat",
-                "hash": "c06052c11e40ab3d53130734cab4ebda"
+                "path": "../AdditionalFiles/Assets/Character Models/Spike_wheel_Animated/Materials00000/Material 2.lsmat",
+                "hash": "706f1405a49270eff2b28df25b5d820d"
             }
         }
     }

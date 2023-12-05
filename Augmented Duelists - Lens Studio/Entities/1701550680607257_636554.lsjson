@@ -14,7 +14,7 @@
             "uid": "1701550680611717:636555",
             "fileId": "1701550680604245:636553",
             "originalId": "1701550680612032:636560",
-            "publicId": "1701550680615732:636561",
+            "publicId": "1701730516081177:26060",
             "expected_hash": "e6a0a8daf0ef5a208cd36f5cb08a17a2"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701550680612032_636560.png"
         }
     },
-    "1701550680615732:636561": {
+    "1701730516081177:26060": {
         "IResourceController": {
             "public": {
                 "path": "MonsterCard Markers/MonsterCard_Sheldon_P2.png",

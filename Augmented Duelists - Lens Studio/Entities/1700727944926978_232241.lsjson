@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727944927004:232242",
             "fileId": "1700727944922981:232240",
-            "publicId": "1701547793961568:20757",
+            "publicId": "1701730515534461:25970",
             "expected_hash": "a4cc52628a7dee6b8c2cdbf1acd24ef8"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701547793961568:20757": {
+    "1701730515534461:25970": {
         "IResourceController": {
             "public": {
                 "path": "Coroutine.js",
