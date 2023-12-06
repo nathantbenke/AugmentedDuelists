@@ -9,7 +9,7 @@
             "uid": "1701618902186952:343956",
             "fileId": "1701618902207646:344813",
             "originalId": "1701619049147817:394118",
-            "publicId": "1701683856038108:40754",
+            "publicId": "1701902221343549:73277",
             "expected_hash": "438ff81ba65450614c7e217ac108e047"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1701619049147817_394118.oprfb"
         }
     },
-    "1701683856038108:40754": {
+    "1701902221343549:73277": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Delete if not needed/Prefabs/Everard_SpinAttack_prefab.oprfb",
-                "hash": "b0c2cd83c9f52730f62047fbfe233241"
+                "hash": "6553010cef7a668e9dcde8330c8d6f78"
             }
         }
     }

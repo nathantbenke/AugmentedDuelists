@@ -14,7 +14,7 @@
             "uid": "1701704044926060:6104441",
             "fileId": "1701704044924366:6104437",
             "originalId": "1701704044938548:6104451",
-            "publicId": "1701704045632299:6105333",
+            "publicId": "1701902221216679:73252",
             "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1701704044938548_6104451.lsmat"
         }
     },
-    "1701704045632299:6105333": {
+    "1701902221216679:73252": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/SheldonAnimationsModel/SheldonMesh/Materials/Material 2.lsmat",
-                "hash": "5e94efefc8e045cd8b571b2a95f7058f"
+                "path": "../AdditionalFiles/Assets/Character Models/SheldonAnimationsModel/SheldonMesh/Materials0/Material 2.lsmat",
+                "hash": "efb180dc14abac9b95cfbbf1cb92ad04"
             }
         }
     }

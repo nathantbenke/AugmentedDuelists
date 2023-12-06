@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856163107:40866",
+            "publicId": "1701902221607302:73352",
             "resources": [
                 "1700727981589421:248295",
                 "1700727981627285:248327",
@@ -16,7 +16,7 @@
             ]
         }
     },
-    "1701683856163107:40866": {
+    "1701902221607302:73352": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Meshes"

@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700727944918756:232234",
             "fileId": "1700727944914825:232232",
-            "publicId": "1701683856136976:40844",
+            "publicId": "1701902221484550:73330",
             "expected_hash": "f38bda986940c53fa6195debc716e216"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701683856136976:40844": {
+    "1701902221484550:73330": {
         "IResourceController": {
             "public": {
                 "path": "Attack.js",

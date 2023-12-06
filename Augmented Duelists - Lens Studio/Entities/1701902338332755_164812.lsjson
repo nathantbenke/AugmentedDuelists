@@ -1,0 +1,105 @@
+{
+    "1701902338323259:164811": {
+        "IFileManager": {
+            "path": "Files/File_1701902338323259_164811.mesh"
+        }
+    },
+    "1701902338332755:164812": {
+        "IResourceController": {
+            "name": "Cube 6",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701902338350901:164816",
+            "fileId": "1701902338323259:164811",
+            "publicId": "1701902338372746:164828",
+            "expected_hash": "2ebd3dd1cdfcbc291fad2c419f5e6e77",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701902338350901:164816",
+            "name": "Files/File_1701902338323259_164811.mesh",
+            "flags": 1
+        }
+    },
+    "1701902338350901:164816": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "7472",
+                "compressedSize": "3745",
+                "extension": "mesh",
+                "originalRAM": "7472",
+                "originalSize": "3745",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1701902338361652:164827"
+        }
+    },
+    "1701902338361652:164827": {
+        "IFileManager": {
+            "path": "Files/File_1701902338361652_164827.mesh"
+        }
+    },
+    "1701902338372746:164828": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes/BrambleMesh/Meshes/Cube 6.mesh",
+                "hash": "2ebd3dd1cdfcbc291fad2c419f5e6e77"
+            }
+        }
+    }
+}

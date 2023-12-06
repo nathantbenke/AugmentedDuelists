@@ -6,13 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856062613:40775",
+            "publicId": "1701902221197384:73248",
             "resources": [
-                "1701704043353328:6103720"
+                "1701704043353328:6103720",
+                "1701902424709835:251831"
             ]
         }
     },
-    "1701683856062613:40775": {
+    "1701902221197384:73248": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/SheldonAnimationsModel"

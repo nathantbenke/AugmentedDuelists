@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701548026258479:89114",
             "fileId": "1701548026254104:89112",
-            "publicId": "1701683856034541:40752",
+            "publicId": "1701902221339560:73275",
             "expected_hash": "ce8cbf345083589b2b4c4cfb99d5848d"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701683856034541:40752": {
+    "1701902221339560:73275": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Delete if not needed/Everard.blend",

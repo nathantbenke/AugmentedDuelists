@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856161412:40865",
+            "publicId": "1701902221605240:73351",
             "resources": [
                 "1700727981559908:247957",
                 "1700727981561674:247967",
@@ -76,7 +76,7 @@
             ]
         }
     },
-    "1701683856161412:40865": {
+    "1701902221605240:73351": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Animations"

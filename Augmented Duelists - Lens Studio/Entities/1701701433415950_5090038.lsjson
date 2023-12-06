@@ -14,7 +14,7 @@
             "uid": "1701701433415954:5090039",
             "fileId": "1701701433414411:5090037",
             "originalId": "1701701433427284:5090043",
-            "publicId": "1701701433700406:5090792",
+            "publicId": "1701902221289101:73261",
             "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1701701433427284_5090043.lsmat"
         }
     },
-    "1701701433700406:5090792": {
+    "1701902221289101:73261": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/BrambleAnimationsModel/BrambleMesh/Materials/Brown.lsmat",
-                "hash": "2929b590733b4dd7d2294fab76751cbb"
+                "path": "../AdditionalFiles/Assets/Character Models/BrambleAnimationsModel/BrambleMesh/Materials0/Brown.lsmat",
+                "hash": "38c1b725c46f7de941b449dcbbbde811"
             }
         }
     }

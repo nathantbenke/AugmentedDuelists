@@ -6,13 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856063254:40776",
+            "publicId": "1701902221222720:73255",
             "resources": [
-                "1701701431725080:5089469"
+                "1701701431725080:5089469",
+                "1701902459389085:278113"
             ]
         }
     },
-    "1701683856063254:40776": {
+    "1701902221222720:73255": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/BrambleAnimationsModel"

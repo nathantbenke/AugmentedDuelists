@@ -1,0 +1,25 @@
+{
+    "1701902338080073:164700": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701902338080230:164701",
+            "resources": [
+                "1701902338081072:164702",
+                "1701902337728366:164041",
+                "1701902384254031:207016",
+                "1701902424988136:252337"
+            ]
+        }
+    },
+    "1701902338080230:164701": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes"
+            }
+        }
+    }
+}

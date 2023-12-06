@@ -1,0 +1,26 @@
+{
+    "1701902425509868:252341": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701902425510009:252342",
+            "resources": [
+                "1701902424972982:252325",
+                "1701902425539357:252360",
+                "1701902425581879:252384",
+                "1701902425617751:252413",
+                "1701902425657619:252444"
+            ]
+        }
+    },
+    "1701902425510009:252342": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes/SheldonMesh4/Meshes"
+            }
+        }
+    }
+}

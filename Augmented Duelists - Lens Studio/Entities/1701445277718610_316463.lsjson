@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701445277720306:316464",
             "fileId": "1701445277710960:316460",
-            "publicId": "1701683855984816:40716",
+            "publicId": "1701902221159351:73222",
             "expected_hash": "3f549b243cc48b8bceee9ed3c9d007fe"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701683855984816:40716": {
+    "1701902221159351:73222": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/Attack/AttackCardReceiver.js",

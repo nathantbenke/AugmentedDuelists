@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700958417950059:2040046",
             "fileId": "1700958417942362:2040044",
-            "publicId": "1701683856181508:40880",
+            "publicId": "1701902221627050:73366",
             "expected_hash": "06fac35e9044c9bdececf8a67e61fbcc"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701683856181508:40880": {
+    "1701902221627050:73366": {
         "IResourceController": {
             "public": {
                 "path": "TestScript.js",

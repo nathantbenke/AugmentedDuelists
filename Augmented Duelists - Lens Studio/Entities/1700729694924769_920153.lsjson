@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700729694924788:920154",
             "fileId": "1700729694923177:920152",
-            "publicId": "1701683856173122:40875",
+            "publicId": "1701902221617585:73361",
             "expected_hash": "3840708d98d4624b318c7a53b1a45433"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701683856173122:40875": {
+    "1701902221617585:73361": {
         "IResourceController": {
             "public": {
                 "path": "SceneObjectHelpersModule.js",

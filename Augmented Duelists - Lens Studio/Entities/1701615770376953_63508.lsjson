@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701615770376976:63509",
             "fileId": "1701615770374434:63507",
-            "publicId": "1701683856326759:40973",
+            "publicId": "1701902221797630:73459",
             "expected_hash": "59361291686fd7cebf3981836238abbb"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701683856326759:40973": {
+    "1701902221797630:73459": {
         "IResourceController": {
             "public": {
                 "path": "AnimationSwap.js",

@@ -1,12 +1,12 @@
 {
     "1701704044715232:6104321": {
         "IResourceController": {
-            "name": "Materials",
+            "name": "Materials0",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701704045629580:6105331",
+            "publicId": "1701902221201873:73250",
             "resources": [
                 "1701704044717048:6104323",
                 "1701704044926056:6104440",
@@ -15,10 +15,10 @@
             ]
         }
     },
-    "1701704045629580:6105331": {
+    "1701902221201873:73250": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/SheldonAnimationsModel/SheldonMesh/Materials"
+                "path": "../AdditionalFiles/Assets/Character Models/SheldonAnimationsModel/SheldonMesh/Materials0"
             }
         }
     }

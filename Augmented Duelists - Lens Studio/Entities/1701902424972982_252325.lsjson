@@ -1,0 +1,105 @@
+{
+    "1701902424969671:252324": {
+        "IFileManager": {
+            "path": "Files/File_1701902424969671_252324.mesh"
+        }
+    },
+    "1701902424972982:252325": {
+        "IResourceController": {
+            "name": "Cone 4",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701902424981551:252327",
+            "fileId": "1701902424969671:252324",
+            "publicId": "1701902425521408:252345",
+            "expected_hash": "0ebc5dec8a8b88cd9cd222bb9755d482",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701902424981551:252327",
+            "name": "Files/File_1701902424969671_252324.mesh",
+            "flags": 1
+        }
+    },
+    "1701902424981551:252327": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "121848",
+                "compressedSize": "33373",
+                "extension": "mesh",
+                "originalRAM": "121848",
+                "originalSize": "33373",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1701902425511123:252344"
+        }
+    },
+    "1701902425511123:252344": {
+        "IFileManager": {
+            "path": "Files/File_1701902425511123_252344.mesh"
+        }
+    },
+    "1701902425521408:252345": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes/SheldonMesh4/Meshes/Cone 4.mesh",
+                "hash": "0ebc5dec8a8b88cd9cd222bb9755d482"
+            }
+        }
+    }
+}

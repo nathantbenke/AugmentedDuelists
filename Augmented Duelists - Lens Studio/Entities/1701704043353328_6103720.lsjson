@@ -7,7 +7,7 @@
             "dependency": 2,
             "hidden": false,
             "fileId": "1701704045594544:6105311",
-            "publicId": "1701704045628644:6105330",
+            "publicId": "1701902221200992:73249",
             "expected_hash": "f0d7270a8c1c4719d7edfa84aaba2ad9",
             "resources": [
                 "1701704044644028:6104099",
@@ -50,7 +50,7 @@
             "path": "Files/File_1701704045594544_6105311.glb"
         }
     },
-    "1701704045628644:6105330": {
+    "1701902221200992:73249": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/SheldonAnimationsModel/SheldonMesh.glb",

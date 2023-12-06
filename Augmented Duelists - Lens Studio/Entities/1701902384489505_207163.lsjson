@@ -1,0 +1,105 @@
+{
+    "1701902384482951:207162": {
+        "IFileManager": {
+            "path": "Files/File_1701902384482951_207162.mesh"
+        }
+    },
+    "1701902384489505:207163": {
+        "IResourceController": {
+            "name": "Plane 6",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701902384498885:207165",
+            "fileId": "1701902384482951:207162",
+            "publicId": "1701902384522299:207179",
+            "expected_hash": "3defff61028ab9cbbd20eaee4e023c3c",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701902384498885:207165",
+            "name": "Files/File_1701902384482951_207162.mesh",
+            "flags": 1
+        }
+    },
+    "1701902384498885:207165": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "84000",
+                "compressedSize": "31126",
+                "extension": "mesh",
+                "originalRAM": "84000",
+                "originalSize": "31126",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1701902384509359:207178"
+        }
+    },
+    "1701902384509359:207178": {
+        "IFileManager": {
+            "path": "Files/File_1701902384509359_207178.mesh"
+        }
+    },
+    "1701902384522299:207179": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes/EverardMesh/Meshes/Plane 6.mesh",
+                "hash": "3defff61028ab9cbbd20eaee4e023c3c"
+            }
+        }
+    }
+}

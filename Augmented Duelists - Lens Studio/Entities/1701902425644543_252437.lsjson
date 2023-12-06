@@ -1,0 +1,17 @@
+{
+    "1701902425644543:252437": {
+        "IResourceController": {
+            "name": "Armature_",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701902425644539:252436"
+        },
+        "IResourceManager": {
+            "uid": "1701902425644539:252436",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

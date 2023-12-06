@@ -7,7 +7,7 @@
             "dependency": 2,
             "hidden": false,
             "fileId": "1701701433662176:5090774",
-            "publicId": "1701701433694467:5090787",
+            "publicId": "1701902221260429:73256",
             "expected_hash": "cc793da0c947913d7822da7e664d4c7b",
             "resources": [
                 "1701701432691302:5089557",
@@ -50,7 +50,7 @@
             "path": "Files/File_1701701433662176_5090774.glb"
         }
     },
-    "1701701433694467:5090787": {
+    "1701902221260429:73256": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/BrambleAnimationsModel/BrambleMesh.glb",

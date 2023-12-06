@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856181811:40881",
+            "publicId": "1701902221627356:73367",
             "resources": [
                 "1701269462271975:2790512",
                 "1701269463702380:2790623",
@@ -15,7 +15,7 @@
             ]
         }
     },
-    "1701683856181811:40881": {
+    "1701902221627356:73367": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._"

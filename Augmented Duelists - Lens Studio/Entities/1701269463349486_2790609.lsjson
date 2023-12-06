@@ -14,7 +14,7 @@
             "uid": "1701269463352708:2790610",
             "fileId": "1701269463346994:2790608",
             "originalId": "1701269463407540:2790616",
-            "publicId": "1701683856193100:40889",
+            "publicId": "1701902221640233:73375",
             "expected_hash": "be917b6221599ab136249b07f12d7ad6"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701269463407540_2790616.lsmat"
         }
     },
-    "1701683856193100:40889": {
+    "1701902221640233:73375": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Materials/Continuous Bar Material/Bar Mat 4 [EDIT ME].lsmat",

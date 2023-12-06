@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856096303:40807",
+            "publicId": "1701902221364942:73293",
             "resources": [
                 "1700610429397859:834",
                 "1700610429411488:852"
             ]
         }
     },
-    "1701683856096303:40807": {
+    "1701902221364942:73293": {
         "IResourceController": {
             "public": {
                 "path": "Assets/PlaySpace"

@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700729696848919:922794",
             "fileId": "1700729696847166:922792",
-            "publicId": "1701683856174695:40876",
+            "publicId": "1701902221619522:73362",
             "expected_hash": "404f24b9dd29d8dc40f1b07ae36c0795"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701683856174695:40876": {
+    "1701902221619522:73362": {
         "IResourceController": {
             "public": {
                 "path": "EventModule.js",

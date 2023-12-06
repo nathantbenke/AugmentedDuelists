@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429250653:758",
             "fileId": "1700610429248918:756",
-            "publicId": "1701683856088734:40798",
+            "publicId": "1701902221356540:73284",
             "expected_hash": "c8b2dc85d6310f82694f5b2bea6d88c0"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701683856088734:40798": {
+    "1701902221356540:73284": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Markers/Affinity File/Attack1Marker.afpub",

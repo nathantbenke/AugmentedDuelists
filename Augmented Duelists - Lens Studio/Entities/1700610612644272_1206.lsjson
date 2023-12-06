@@ -6,11 +6,11 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856110477:40817",
+            "publicId": "1701902221400978:73303",
             "resources": []
         }
     },
-    "1701683856110477:40817": {
+    "1701902221400978:73303": {
         "IResourceController": {
             "public": {
                 "path": "Assets/AnimationAssets"

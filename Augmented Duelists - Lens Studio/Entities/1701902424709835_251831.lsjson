@@ -1,0 +1,39 @@
+{
+    "1701902424709835:251831": {
+        "IResourceController": {
+            "name": "SheldonMeshScripted",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701902424709796:251828",
+            "fileId": "1701902424726724:251835",
+            "originalId": "1701902814730413:1072742",
+            "publicId": "1701902426159381:255610",
+            "expected_hash": "6b86b30469286dffc1b6ac5192241b79"
+        },
+        "IResourceManager": {
+            "uid": "1701902424709796:251828",
+            "name": "sceneObject_2",
+            "flags": 0
+        }
+    },
+    "1701902424726724:251835": {
+        "IFileManager": {
+            "path": "Files/File_1701902424726724_251835.oprfb"
+        }
+    },
+    "1701902426159381:255610": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/SheldonAnimationsModel/SheldonMeshScripted.oprfb",
+                "hash": "2e63231d49d4fa0d7a7057bc4801dce2"
+            }
+        }
+    },
+    "1701902814730413:1072742": {
+        "IFileManager": {
+            "path": "Files/File_1701902814730413_1072742.oprfb"
+        }
+    }
+}

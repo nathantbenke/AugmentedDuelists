@@ -14,7 +14,7 @@
             "uid": "1701695936503858:3260264",
             "fileId": "1701695936502465:3260262",
             "originalId": "1701695936515523:3260276",
-            "publicId": "1701695937432267:3261602",
+            "publicId": "1701902221193023:73244",
             "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
         },
         "IResourceManager": {
@@ -28,10 +28,10 @@
             "path": "Files/File_1701695936515523_3260276.lsmat"
         }
     },
-    "1701695937432267:3261602": {
+    "1701902221193023:73244": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/EverardAnimationModels/Everard_CombinedAnim 2/Materials/Material.lsmat",
+                "path": "../AdditionalFiles/Assets/Character Models/EverardAnimationModel/Everard_CombinedAnim 2/Materials/Material.lsmat",
                 "hash": "1f023ce3ee311c2364667a71d420934c"
             }
         }

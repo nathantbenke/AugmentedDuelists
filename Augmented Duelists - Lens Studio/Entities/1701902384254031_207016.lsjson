@@ -1,0 +1,23 @@
+{
+    "1701902384254031:207016": {
+        "IResourceController": {
+            "name": "EverardMesh",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701902384254178:207017",
+            "resources": [
+                "1701902384254992:207018",
+                "1701902384271932:207034"
+            ]
+        }
+    },
+    "1701902384254178:207017": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes/EverardMesh"
+            }
+        }
+    }
+}

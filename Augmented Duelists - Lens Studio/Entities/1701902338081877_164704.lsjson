@@ -1,0 +1,27 @@
+{
+    "1701902338081877:164704": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701902338081949:164705",
+            "resources": [
+                "1701902338050027:164686",
+                "1701902338110946:164718",
+                "1701902338148230:164740",
+                "1701902338207056:164766",
+                "1701902338245229:164788",
+                "1701902338332755:164812"
+            ]
+        }
+    },
+    "1701902338081949:164705": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes/BrambleMesh/Meshes"
+            }
+        }
+    }
+}

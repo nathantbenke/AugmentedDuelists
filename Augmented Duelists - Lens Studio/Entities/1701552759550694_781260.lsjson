@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701552759550717:781261",
             "fileId": "1701552759545135:781259",
-            "publicId": "1701683856311215:40968",
+            "publicId": "1701902221781550:73454",
             "expected_hash": "52a49576a2396a5d99e60ea58a77d18b"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701683856311215:40968": {
+    "1701902221781550:73454": {
         "IResourceController": {
             "public": {
                 "path": "ActionMarkersPNG/PNG/Markers_002.psd",

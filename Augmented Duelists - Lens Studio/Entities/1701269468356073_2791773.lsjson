@@ -14,7 +14,7 @@
             "uid": "1701269468359470:2791774",
             "fileId": "1701269468351722:2791772",
             "originalId": "1701269468360089:2791779",
-            "publicId": "1701683856229498:40928",
+            "publicId": "1701902221679796:73414",
             "expected_hash": "c505b11a9da3585f4532e7a812b812fc",
             "additional": {
                 "originHash": "08d361b65ddf0e5d89809acbc3f281a8"
@@ -68,7 +68,7 @@
             "path": "Files/File_1701269482597096_2803567.pvr"
         }
     },
-    "1701683856229498:40928": {
+    "1701902221679796:73414": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Segmented Bar/Design 1/Life bars 1.png",

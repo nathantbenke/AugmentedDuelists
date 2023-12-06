@@ -9,7 +9,7 @@
             "uid": "1701269460667352:2789677",
             "fileId": "1701269460929300:2789748",
             "originalId": "1701339778008630:30359",
-            "publicId": "1701683856230477:40929",
+            "publicId": "1701902221680853:73415",
             "expected_hash": "c50d93e340201574f1e85dc6e391900c"
         },
         "IResourceManager": {
@@ -28,11 +28,11 @@
             "path": "Files/File_1701339778008630_30359.oprfb"
         }
     },
-    "1701683856230477:40929": {
+    "1701902221680853:73415": {
         "IResourceController": {
             "public": {
                 "path": "Resource_Bar_Pack____PUT_IN_ORTHO_CAM.oprfb",
-                "hash": "efbdfa08327b06ffde67096afd15180c"
+                "hash": "25cd79a9912e82119da1ac4699a82764"
             }
         }
     }

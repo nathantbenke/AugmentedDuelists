@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701695937430632:3261601",
+            "publicId": "1701902221180116:73243",
             "resources": [
                 "1701695936503855:3260263",
                 "1701695936719700:3260388",
@@ -15,10 +15,10 @@
             ]
         }
     },
-    "1701695937430632:3261601": {
+    "1701902221180116:73243": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/EverardAnimationModels/Everard_CombinedAnim 2/Materials"
+                "path": "../AdditionalFiles/Assets/Character Models/EverardAnimationModel/Everard_CombinedAnim 2/Materials"
             }
         }
     }

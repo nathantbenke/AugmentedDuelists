@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701699307838248:4808424",
+            "publicId": "1701902221289588:73262",
             "resources": [
                 "1700689552226163:5754",
                 "1700689555927998:7172",
@@ -18,7 +18,7 @@
             ]
         }
     },
-    "1701699307838248:4808424": {
+    "1701902221289588:73262": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Delete if not needed"

@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1700610429272197:782",
             "fileId": "1700610429270684:780",
-            "publicId": "1701683856091715:40801",
+            "publicId": "1701902221359753:73287",
             "expected_hash": "9f4c8f14e8301bb694f8c333733c021a"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701683856091715:40801": {
+    "1701902221359753:73287": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Markers/Affinity File/TurnChangeMarker.afpub",

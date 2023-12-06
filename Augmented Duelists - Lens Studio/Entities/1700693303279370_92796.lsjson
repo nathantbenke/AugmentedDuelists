@@ -14,7 +14,7 @@
             "uid": "1700693303289576:92797",
             "fileId": "1700693303276933:92795",
             "originalId": "1700693303290239:92802",
-            "publicId": "1701683855998293:40731",
+            "publicId": "1701902221174384:73237",
             "expected_hash": "0eb092fa2fc9a4e30f55b316852b8b9c",
             "additional": {
                 "originHash": "7f38b9ea02ae057975aff94b79fbded2"
@@ -68,7 +68,7 @@
             "path": "Files/File_1700693312374265_96402.pvr"
         }
     },
-    "1701683855998293:40731": {
+    "1701902221174384:73237": {
         "IResourceController": {
             "public": {
                 "path": "MonsterMarker/SpikeyWheel_Marker_Image.png",

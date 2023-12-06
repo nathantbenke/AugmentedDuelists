@@ -6,13 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701683856039414:40756",
+            "publicId": "1701902221177271:73241",
             "resources": [
-                "1701695934718856:3259380"
+                "1701695934718856:3259380",
+                "1701902383453558:206236"
             ]
         }
     },
-    "1701683856039414:40756": {
+    "1701902221177271:73241": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/EverardAnimationModel"

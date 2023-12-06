@@ -7,7 +7,7 @@
             "dependency": 2,
             "hidden": false,
             "fileId": "1701695937395923:3261579",
-            "publicId": "1701695937429234:3261600",
+            "publicId": "1701902221178908:73242",
             "expected_hash": "477beb545b96e5c16f6652f04d1d77b1",
             "resources": [
                 "1701695936411337:3259898",
@@ -50,7 +50,7 @@
             "path": "Files/File_1701695937395923_3261579.glb"
         }
     },
-    "1701695937429234:3261600": {
+    "1701902221178908:73242": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/EverardAnimationModel/Everard_CombinedAnim 2.glb",

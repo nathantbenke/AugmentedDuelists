@@ -1,0 +1,39 @@
+{
+    "1701902337728366:164041": {
+        "IResourceController": {
+            "name": "BrambleMeshScripted",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701902337728326:164038",
+            "fileId": "1701902337749868:164053",
+            "originalId": "1701902814902117:1073464",
+            "publicId": "1701902338940331:168155",
+            "expected_hash": "08821dd340227c4343d309376214f039"
+        },
+        "IResourceManager": {
+            "uid": "1701902337728326:164038",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1701902337749868:164053": {
+        "IFileManager": {
+            "path": "Files/File_1701902337749868_164053.oprfb"
+        }
+    },
+    "1701902338940331:168155": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/Meshes/BrambleMeshScripted.oprfb",
+                "hash": "81814e23973b786e997b5f4a400cbbf0"
+            }
+        }
+    },
+    "1701902814902117:1073464": {
+        "IFileManager": {
+            "path": "Files/File_1701902814902117_1073464.oprfb"
+        }
+    }
+}

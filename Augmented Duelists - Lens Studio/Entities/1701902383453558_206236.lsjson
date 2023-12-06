@@ -1,0 +1,39 @@
+{
+    "1701902383453558:206236": {
+        "IResourceController": {
+            "name": "EverardMeshScripted",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701902383453521:206233",
+            "fileId": "1701902383470186:206240",
+            "originalId": "1701902814703742:1072537",
+            "publicId": "1701902384958907:211256",
+            "expected_hash": "6666fde38abf041e45a50acc0f2bac57"
+        },
+        "IResourceManager": {
+            "uid": "1701902383453521:206233",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1701902383470186:206240": {
+        "IFileManager": {
+            "path": "Files/File_1701902383470186_206240.oprfb"
+        }
+    },
+    "1701902384958907:211256": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/Character Models/EverardAnimationModel/EverardMeshScripted.oprfb",
+                "hash": "8ca4c3e28891c88b7eb99ceec654ce32"
+            }
+        }
+    },
+    "1701902814703742:1072537": {
+        "IFileManager": {
+            "path": "Files/File_1701902814703742_1072537.oprfb"
+        }
+    }
+}

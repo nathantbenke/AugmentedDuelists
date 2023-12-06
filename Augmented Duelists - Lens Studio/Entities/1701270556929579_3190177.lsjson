@@ -14,7 +14,7 @@
             "uid": "1701270556958627:3190186",
             "fileId": "1701270556893903:3190168",
             "originalId": "1701270556990334:3190721",
-            "publicId": "1701683856114429:40821",
+            "publicId": "1701902221405850:73307",
             "expected_hash": "0cb6bd0d8aba151ac1edac2c3f9865fb",
             "additional": {
                 "originHash": "3cf69a6873b7f4a0cab876c7f0b01079"
@@ -68,7 +68,7 @@
             "path": "Files/File_1701270579121236_3200095.pvr"
         }
     },
-    "1701683856114429:40821": {
+    "1701902221405850:73307": {
         "IResourceController": {
             "public": {
                 "path": "Assets/UI/Red_Color.jpg",

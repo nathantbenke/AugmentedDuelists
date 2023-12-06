@@ -9,7 +9,7 @@
             "uid": "1701619018462349:375029",
             "fileId": "1701619018477328:375242",
             "originalId": "1701619049164132:394200",
-            "publicId": "1701683856039105:40755",
+            "publicId": "1701902221344506:73278",
             "expected_hash": "9cf96b9a4ddbea6f37f256fd3b1d3edb"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701619049164132_394200.oprfb"
         }
     },
-    "1701683856039105:40755": {
+    "1701902221344506:73278": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Delete if not needed/Prefabs/Bramble_Prefab.oprfb",
