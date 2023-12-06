@@ -14,7 +14,7 @@
             "uid": "1701269468231103:2791717",
             "fileId": "1701269468226306:2791715",
             "originalId": "1701269468231826:2791722",
-            "publicId": "1701730515992077:26042",
+            "publicId": "1701783698131202:25357",
             "expected_hash": "1cad293a3cb768c4e24b77e0740ce4a2",
             "additional": {
                 "originHash": "1cad293a3cb768c4e24b77e0740ce4a2"
@@ -31,7 +31,7 @@
             "path": "Files/File_1701269468231826_2791722.png"
         }
     },
-    "1701730515992077:26042": {
+    "1701783698131202:25357": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Continuous Reduction Bar/Design 4/Life 4.png",

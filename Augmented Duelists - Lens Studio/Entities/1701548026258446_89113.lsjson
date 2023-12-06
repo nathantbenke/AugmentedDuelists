@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701548026258479:89114",
             "fileId": "1701548026254104:89112",
-            "publicId": "1701730515199241:25920",
+            "publicId": "1701783697456952:25235",
             "expected_hash": "ce8cbf345083589b2b4c4cfb99d5848d"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701730515199241:25920": {
+    "1701783697456952:25235": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models/Everard.blend",

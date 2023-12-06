@@ -6,13 +6,13 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701730516030982:26050",
+            "publicId": "1701783698168525:25365",
             "resources": [
                 "1701269468120742:2791682"
             ]
         }
     },
-    "1701730516030982:26050": {
+    "1701783698168525:25365": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Segmented Bar"

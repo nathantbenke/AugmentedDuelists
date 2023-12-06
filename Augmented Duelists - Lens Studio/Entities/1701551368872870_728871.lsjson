@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701730516101666:26063",
+            "publicId": "1701783698271881:25378",
             "resources": [
                 "1701548921239120:357597",
                 "1701548993812245:364382",
@@ -14,7 +14,7 @@
             ]
         }
     },
-    "1701730516101666:26063": {
+    "1701783698271881:25378": {
         "IResourceController": {
             "public": {
                 "path": "Snapcode_Resources"

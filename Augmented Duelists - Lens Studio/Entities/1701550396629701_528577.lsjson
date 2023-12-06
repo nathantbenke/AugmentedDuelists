@@ -14,7 +14,7 @@
             "uid": "1701550396629754:528578",
             "fileId": "1701550396628403:528576",
             "originalId": "1701550396630159:528583",
-            "publicId": "1701730516053908:26055",
+            "publicId": "1701783698199462:25370",
             "expected_hash": "d41d8cd98f00b204e9800998ecf8427e"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701550396630159_528583.png"
         }
     },
-    "1701730516053908:26055": {
+    "1701783698199462:25370": {
         "IResourceController": {
             "public": {
                 "path": "Tracking Marker 2.png",

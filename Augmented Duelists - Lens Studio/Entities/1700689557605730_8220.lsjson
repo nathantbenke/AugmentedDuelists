@@ -1,12 +1,12 @@
 {
     "1700689557605730:8220": {
         "IResourceController": {
-            "name": "Materials00000",
+            "name": "Materials000000",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701730515169600:25915",
+            "publicId": "1701783697420149:25230",
             "resources": [
                 "1700689557607686:8222",
                 "1700689557962308:8267",
@@ -15,10 +15,10 @@
             ]
         }
     },
-    "1701730515169600:25915": {
+    "1701783697420149:25230": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Assets/Character Models/Spike_wheel_Animated/Materials00000"
+                "path": "../AdditionalFiles/Assets/Character Models/Spike_wheel_Animated/Materials000000"
             }
         }
     }

@@ -12,14 +12,16 @@
 ////updates every frame when it is found
 
 
+
 if (script.CardFound == true) {
+    print(script.getSceneObject().name);
     script.ScanValue += getDeltaTime();
     print(script.ScanValue);
 
     if (script.ScanValue >= 0) {
         script.CardFound = false;
         script.ScanValue = 0;
-        script.GM.api.SelectMonster(script.MI);
+        //script.GM.api.SelectMonster(script.MI);
     }
 }
 

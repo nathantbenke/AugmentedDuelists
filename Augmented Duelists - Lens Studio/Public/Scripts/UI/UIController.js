@@ -10,11 +10,17 @@
 
 //@input Component.Image P1HealthBar;
 //@input Component.Image P2HealthBar;
+//@input Component.Text InstructionText;
 
-script.api.TestFunc = function() {
-    return 0;
+script.api.SetInstructions = function (txt) {
+    //print(script.InstructionText.text);
+    script.InstructionText.getSceneObject().enabled = true;
+    script.InstructionText.text = txt;
 }
 
+script.api.HideInstructions = function () {
+    script.InstructionText.getSceneObject().enabled = false;
+}
 
 script.api.UpdateUI = function (T, P1CH, P1MH, P2CH, P2MH) {
     //print("It's not updating");
@@ -46,7 +52,7 @@ script.api.UpdateUI = function (T, P1CH, P1MH, P2CH, P2MH) {
         P1HealthPercent == 1;
     }
 
-    var P2HealthPercent = P1CH / P1MH;
+    var P2HealthPercent = P2CH / P2MH;
 
     //same as before
     if (P2HealthPercent < 0) {

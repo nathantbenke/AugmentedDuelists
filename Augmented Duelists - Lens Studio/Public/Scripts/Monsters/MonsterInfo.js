@@ -15,9 +15,11 @@
 
 //print(script.MonsterName);
 
+
 script.api.GetAttack = function (Num) {
 
     switch (Num) {
+        case 0:
         case 1:
             return script.Attack1;
 

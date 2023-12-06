@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701552758904930:781183",
             "fileId": "1701552758895255:781181",
-            "publicId": "1701730516291617:26085",
+            "publicId": "1701783698444816:25400",
             "expected_hash": "84feea0e36c51fea9ca9e4e6774a7bae"
         },
         "IResourceManager": {
@@ -22,7 +22,7 @@
             "flags": 1
         }
     },
-    "1701730516291617:26085": {
+    "1701783698444816:25400": {
         "IResourceController": {
             "public": {
                 "path": "ActionMarkersPNG/PNG/Greyscale_GeometricBackground.psd",

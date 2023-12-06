@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701730516019025:26047",
+            "publicId": "1701783698155977:25362",
             "resources": [
                 "1701269468421370:2791796",
                 "1701269468618855:2791890"
             ]
         }
     },
-    "1701730516019025:26047": {
+    "1701783698155977:25362": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Textures/Life Bar designs/Continuous Reduction Bar/Design 5"

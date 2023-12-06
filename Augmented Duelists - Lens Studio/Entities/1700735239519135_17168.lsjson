@@ -13,8 +13,8 @@
             "hidden": false,
             "uid": "1700735239519193:17169",
             "fileId": "1700735239515173:17167",
-            "publicId": "1701730514962861:25890",
-            "expected_hash": "fa00c9f9be203f685ec44369dc42752d"
+            "publicId": "1701783697221828:25204",
+            "expected_hash": "b828118181f07725cca306705dedb5e2"
         },
         "IResourceManager": {
             "uid": "1700735239519193:17169",
@@ -27,11 +27,11 @@
             "dependent_module_names": []
         }
     },
-    "1701730514962861:25890": {
+    "1701783697221828:25204": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/Game/Player.js",
-                "hash": "fa00c9f9be203f685ec44369dc42752d"
+                "hash": "b828118181f07725cca306705dedb5e2"
             }
         }
     }

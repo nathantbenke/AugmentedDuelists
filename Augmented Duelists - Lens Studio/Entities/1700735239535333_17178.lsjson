@@ -13,8 +13,8 @@
             "hidden": false,
             "uid": "1700735239535378:17179",
             "fileId": "1700735239530112:17177",
-            "publicId": "1701730514992838:25894",
-            "expected_hash": "2cc204f685d78332cf25b38eef663883"
+            "publicId": "1701783697249701:25209",
+            "expected_hash": "71382a5c86973ec6b0769239014e9d61"
         },
         "IResourceManager": {
             "uid": "1700735239535378:17179",
@@ -27,11 +27,11 @@
             "dependent_module_names": []
         }
     },
-    "1701730514992838:25894": {
+    "1701783697249701:25209": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/Monsters/MonsterInfo.js",
-                "hash": "2cc204f685d78332cf25b38eef663883"
+                "hash": "71382a5c86973ec6b0769239014e9d61"
             }
         }
     }
