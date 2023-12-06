@@ -14,7 +14,7 @@
             "uid": "1700735239510743:17161",
             "fileId": "1700735239505712:17159",
             "publicId": "1701783697223815:25205",
-            "expected_hash": "cea1a0931aa8520ebd1415485e1c699b"
+            "expected_hash": "9c5f9eb48dd157d9f405625fc6892af0"
         },
         "IResourceManager": {
             "uid": "1700735239510743:17161",
@@ -31,7 +31,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/Game/GameManager.js",
-                "hash": "cea1a0931aa8520ebd1415485e1c699b"
+                "hash": "9c5f9eb48dd157d9f405625fc6892af0"
             }
         }
     }

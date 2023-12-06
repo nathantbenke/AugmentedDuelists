@@ -45,17 +45,19 @@ script.api.SelectMove = function (card) {
                 script.Player2.api.TakeDamage(Atk.api.GetAttackDamage());
 
                 var Mod = Atk.api.GetModifier();
+                //var Mod = Atk.ap;
                 if (Mod != -1) {
                     print(Mod.ST);
 
                     if (Mod.ST) {
                         //apply to player 1
-                        ApplyMod(Mod, script.Player1);
+                        if (Mod.AtkMod) {
+
+                        }
 
                     }
                     else {
                         //apply to player 2
-                        ApplyMod(Mod, script.Player2);
                     }
                 }
                 //print(script.Player2.api.GetHealth());
@@ -66,26 +68,10 @@ script.api.SelectMove = function (card) {
                 var Atk = script.Player2.api.SelectAttack(card);
                 //print("Selecting here");
                 //Atk.api.GetModifier().Val = 1;
-                //print("It's running once");
+                //print("It's running once"); 
                 //print(Atk.api.GetModifier().Val);
-                
-                script.Player1.api.TakeDamage(Atk.api.GetAttackDamage() * Player1.api.GetAtkMod() * Player2.GetDefMod());
+                script.Player1.api.TakeDamage(Atk.api.GetAttackDamage());
                 //print(script.Player2.api.GetHealth());
-
-                var Mod = Atk.api.GetModifier();
-                if (Mod != -1) {
-                    print(Mod.ST);
-
-                    if (Mod.ST) {
-                        //apply to player 2
-                        ApplyMod(Mod, script.Player2);
-
-                    }
-                    else {
-                        //apply to player 1
-                        ApplyMod(Mod, script.Player1);
-                    }
-                }
             }
 
             if (!script.Player1.api.MonsterCheck()) {
@@ -121,22 +107,6 @@ script.api.SelectMove = function (card) {
         print("Need both monsters");
     }
 
-}
-
-
-ApplyMod = function (M, T) {
-
-    if (M.H) {
-        //recover health
-        T.api.TakeDamage(M.val);
-    }
-    else if (M.AtkMod) {
-        print("Atk up");
-        T.api.SetAtkMod(M);
-    }
-    else {
-        T.api.SetDefMod(M);
-    }
 }
 
 script.api.SelectMonster = function (card) {

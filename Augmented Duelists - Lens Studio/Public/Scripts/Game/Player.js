@@ -13,8 +13,8 @@ var Health = 5;
 var MaxHealth = 10;
 
 //if we decide to have attacks that change stats, this is where to do it
-var AtkMod = 1;
-var DefMod = 1;
+var AtkChange = 1;
+var DefChange = 1;
 
 //this may be unnecessary since I think we're only planning on three cards
 const MonsterLimit = 3;
@@ -50,11 +50,6 @@ script.api.SelectAttack = function (num) {
 
 script.api.TakeDamage = function (D) {
     Health -= D;
-
-    //for healing
-    if (Health > MaxHealth) {
-        Health = MaxHealth;
-    }
     
     script.MonsterHealth[script.CurrentMonster] = Health;
     if (Health <= 0) {
@@ -64,22 +59,9 @@ script.api.TakeDamage = function (D) {
     }
 }
 
-script.api.SetAtkMod = function (M) {
-    AtkMod = M;
-}
+script.api.RecoverHealth = function (D) {
 
-script.api.GetAtkMod = function () { 
-    return AtkMod;
 }
-
-script.api.SetDefMod = function (M) {
-    DefMod = M;
-}
-
-script.api.GetDefMod = function () {
-    return DefMod;
-}
-
 
 script.api.MonsterCheck = function () {
     if (HasMonster) {
