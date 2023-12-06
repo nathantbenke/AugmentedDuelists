@@ -13,15 +13,18 @@ var Health = 5;
 var MaxHealth = 10;
 
 //if we decide to have attacks that change stats, this is where to do it
-var AtkChange = 0;
-var DefChange = 0;
+var AtkChange = 1;
+var DefChange = 1;
 
 //this may be unnecessary since I think we're only planning on three cards
-const MonsterLimit = 6;
+const MonsterLimit = 3;
 
 var CurrentMonster = 0;
 //@input Component.Script[] PrevMonsters;
 //@input float[] MonsterHealth;
+
+
+var DeadMonsters = 0;
 
 
 var HasMonster = false;
@@ -41,16 +44,34 @@ script.api.GetMaxHealth = function () {
     return MaxHealth;
 }
 script.api.SelectAttack = function (num) {
+    //print(script.Monster.api.GetAttack(num));
     return script.Monster.api.GetAttack(num);
 }
 
 script.api.TakeDamage = function (D) {
-    script.Health -= D;
-    script.MonsterHealth[script.CurrentMonster] = script.Health;
-    if (script.Health <= 0) {
+    Health -= D;
+    
+    script.MonsterHealth[script.CurrentMonster] = Health;
+    if (Health <= 0) {
         //play death animation
         HasMonster = false;
+        DeadMonsters++;
     }
+}
+
+script.api.RecoverHealth = function (D) {
+
+}
+
+script.api.MonsterCheck = function () {
+    if (HasMonster) {
+        return true;
+    }
+    return false;
+}
+
+script.api.GetDeadMonsters = function () {
+    return DeadMonsters;
 }
 
 script.api.SetMonster = function (M) {
@@ -60,7 +81,7 @@ script.api.SetMonster = function (M) {
 
     //script.PrevMonsters.push(M);
 
-
+    //print(M.MaxHealth);
     var MonsterLocation = -1;
 
     for (let i = 0; i < script.PrevMonsters.length; ++i) {
@@ -122,7 +143,10 @@ script.api.SetMonster = function (M) {
         }
 
     }
-
-
     //print(script.Monster.api.MonsterName);
 }
+
+script.api.ApplyMod = function(M) {
+
+}
+

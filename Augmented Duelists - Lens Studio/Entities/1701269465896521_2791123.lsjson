@@ -6,14 +6,14 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701730515902536:26027",
+            "publicId": "1701783698073875:25342",
             "resources": [
                 "1701269465877554:2791109",
                 "1701269466612397:2791336"
             ]
         }
     },
-    "1701730515902536:26027": {
+    "1701783698073875:25342": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Info Card [DELETE_ME]/Fonts"

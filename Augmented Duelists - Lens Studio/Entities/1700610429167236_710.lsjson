@@ -6,7 +6,7 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701730515041070:25902",
+            "publicId": "1701783697295593:25217",
             "resources": [
                 "1700610429174064:713",
                 "1700610429193988:721",
@@ -19,7 +19,7 @@
             ]
         }
     },
-    "1701730515041070:25902": {
+    "1701783697295593:25217": {
         "IResourceController": {
             "public": {
                 "path": "Assets/Character Models"

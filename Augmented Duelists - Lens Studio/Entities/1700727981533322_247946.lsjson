@@ -6,13 +6,13 @@
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
-            "publicId": "1701730515658782:25988",
+            "publicId": "1701783697814124:25303",
             "resources": [
                 "1700727981513501:247927"
             ]
         }
     },
-    "1701730515658782:25988": {
+    "1701783697814124:25303": {
         "IResourceController": {
             "public": {
                 "path": "MarkerTemplate/Mark the Monster Resources/Textures"

@@ -14,7 +14,7 @@
             "uid": "1701269464924483:2790902",
             "fileId": "1701269464921933:2790900",
             "originalId": "1701269464962537:2790908",
-            "publicId": "1701730515895787:26025",
+            "publicId": "1701783698065437:25340",
             "expected_hash": "be917b6221599ab136249b07f12d7ad6"
         },
         "IResourceManager": {
@@ -28,7 +28,7 @@
             "path": "Files/File_1701269464962537_2790908.lsmat"
         }
     },
-    "1701730515895787:26025": {
+    "1701783698065437:25340": {
         "IResourceController": {
             "public": {
                 "path": "_Progress Bar Ressources._/Materials/Segmented Bar Materials/Segment Bar Mat [EDIT ME].lsmat",

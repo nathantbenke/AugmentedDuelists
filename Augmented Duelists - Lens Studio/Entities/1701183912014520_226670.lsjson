@@ -13,8 +13,8 @@
             "hidden": false,
             "uid": "1701183912016471:226671",
             "fileId": "1701183912007861:226669",
-            "publicId": "1701730514937147:25887",
-            "expected_hash": "d0dbd7a8646caf514427026b79aa2400"
+            "publicId": "1701783697216354:25201",
+            "expected_hash": "a0566deff728876ac2c27dc999cc0147"
         },
         "IResourceManager": {
             "uid": "1701183912016471:226671",
@@ -27,11 +27,11 @@
             "dependent_module_names": []
         }
     },
-    "1701730514937147:25887": {
+    "1701783697216354:25201": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/UI/UIController.js",
-                "hash": "d0dbd7a8646caf514427026b79aa2400"
+                "hash": "a0566deff728876ac2c27dc999cc0147"
             }
         }
     }

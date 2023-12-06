@@ -13,7 +13,7 @@
             "hidden": false,
             "uid": "1701731082041572:225689",
             "fileId": "1701731082038577:225687",
-            "publicId": "1701731082049034:225694",
+            "publicId": "1701783697236980:25207",
             "expected_hash": "88ff24aa188ad08cd77cb7e579e81407"
         },
         "IResourceManager": {
@@ -27,7 +27,7 @@
             "dependent_module_names": []
         }
     },
-    "1701731082049034:225694": {
+    "1701783697236980:25207": {
         "IResourceController": {
             "public": {
                 "path": "Scripts/Game/WinScreenConfig.js",
