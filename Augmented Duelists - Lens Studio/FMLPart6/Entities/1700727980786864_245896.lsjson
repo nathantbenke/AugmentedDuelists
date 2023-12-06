@@ -1,0 +1,22 @@
+{
+    "1700727980786864:245896": {
+        "IResourceController": {
+            "name": "Markers [REPLACE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701903536952596:55359",
+            "resources": [
+                "1700727980748348:245884"
+            ]
+        }
+    },
+    "1701903536952596:55359": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerTemplate/Markers [REPLACE_ME]"
+            }
+        }
+    }
+}
